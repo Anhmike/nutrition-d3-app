@@ -9,6 +9,13 @@
  */
 angular.module('nutriAppApp')
   .controller('MainCtrl', function () {
+
+  	var svg = d3.select(".svg-container").append("svg").attr({
+  		width:$(".svg-container").width(),
+  		height: 600
+  	});
+
+
     this.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',

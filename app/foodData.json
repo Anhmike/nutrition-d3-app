@@ -1,0 +1,2770 @@
+[
+  {
+    "id": 43218,
+    "description": "Cereals ready-to-eat, ALPEN",
+    "kcal": 352,
+    "protein": 11.2,
+    "carbohydrates": 75.7,
+    "sugar": 20
+  },
+  {
+    "id": 8657,
+    "description": "Cereals ready-to-eat, BARBARA'S PUFFINS, original",
+    "kcal": 333,
+    "protein": 7.41,
+    "carbohydrates": 84,
+    "sugar": 18.52
+  },
+  {
+    "id": 8681,
+    "description": "Cereals ready-to-eat, CASCADIAN FARM, Cinnamon Crunch",
+    "kcal": 407,
+    "protein": 5.69,
+    "carbohydrates": 81.59,
+    "sugar": 31
+  },
+  {
+    "id": 8684,
+    "description": "Cereals ready-to-eat, CASCADIAN FARM, Honey Nut O's",
+    "kcal": 371,
+    "protein": 8.3,
+    "carbohydrates": 83.09,
+    "sugar": 24.79
+  },
+  {
+    "id": 8683,
+    "description": "Cereals ready-to-eat, CASCADIAN FARM, Multi-Grain Squares",
+    "kcal": 387,
+    "protein": 9.39,
+    "carbohydrates": 83,
+    "sugar": 13.19
+  },
+  {
+    "id": 8204,
+    "description": "Cereals ready-to-eat, chocolate-flavored frosted puffed corn",
+    "kcal": 405,
+    "protein": 3.34,
+    "carbohydrates": 87.2,
+    "sugar": 43.7
+  },
+  {
+    "id": 43241,
+    "description": "Cereals ready-to-eat, FAMILIA",
+    "kcal": 388,
+    "protein": 9.5,
+    "carbohydrates": 73.8,
+    "sugar": 23.2
+  },
+  {
+    "id": 42236,
+    "description": "Cereals ready-to-eat, frosted oat cereal with marshmallows",
+    "kcal": 400,
+    "protein": 7.1,
+    "carbohydrates": 84.7,
+    "sugar": 36.13
+  },
+  {
+    "id": 8579,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, 25% Less Sugar CINNAMON TOAST CRUNCH",
+    "kcal": 386,
+    "protein": 5.09,
+    "carbohydrates": 78.19,
+    "sugar": 21.39
+  },
+  {
+    "id": 8586,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, 25% Less Sugar TRIX",
+    "kcal": 383,
+    "protein": 5.4,
+    "carbohydrates": 85.5,
+    "sugar": 25
+  },
+  {
+    "id": 8263,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, APPLE CINNAMON CHEERIOS",
+    "kcal": 386,
+    "protein": 8.3,
+    "carbohydrates": 79.9,
+    "sugar": 34.2
+  },
+  {
+    "id": 8678,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, Apple Cinnamon CHEX",
+    "kcal": 408,
+    "protein": 4.69,
+    "carbohydrates": 82.8,
+    "sugar": 26
+  },
+  {
+    "id": 8262,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, BASIC 4",
+    "kcal": 358,
+    "protein": 6.69,
+    "carbohydrates": 79.09,
+    "sugar": 22.5
+  },
+  {
+    "id": 8274,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, BERRY BERRY KIX",
+    "kcal": 376,
+    "protein": 6.19,
+    "carbohydrates": 83.9,
+    "sugar": 21
+  },
+  {
+    "id": 8239,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, Berry Burst CHEERIOS, Triple Berry",
+    "kcal": 378,
+    "protein": 8.8,
+    "carbohydrates": 80.5,
+    "sugar": 27
+  },
+  {
+    "id": 8273,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, BOO BERRY",
+    "kcal": 386,
+    "protein": 5.5,
+    "carbohydrates": 85.4,
+    "sugar": 27.29
+  },
+  {
+    "id": 8013,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, CHEERIOS",
+    "kcal": 376,
+    "protein": 12.09,
+    "carbohydrates": 73.23,
+    "sugar": 4.36
+  },
+  {
+    "id": 8592,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, CHEERIOS, Banana Nut",
+    "kcal": 375,
+    "protein": 5.5,
+    "carbohydrates": 84.69,
+    "sugar": 33.09
+  },
+  {
+    "id": 8593,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, CHEERIOS, Chocolate",
+    "kcal": 380,
+    "protein": 5.8,
+    "carbohydrates": 83.5,
+    "sugar": 34.09
+  },
+  {
+    "id": 8553,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, CHEERIOS, Yogurt Burst, strawberry",
+    "kcal": 400,
+    "protein": 6.67,
+    "carbohydrates": 81.75,
+    "sugar": 30
+  },
+  {
+    "id": 8594,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, Chocolate CHEX",
+    "kcal": 412,
+    "protein": 4.8,
+    "carbohydrates": 81.09,
+    "sugar": 26.2
+  },
+  {
+    "id": 8513,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, CHOCOLATE LUCKY CHARMS",
+    "kcal": 381,
+    "protein": 5.59,
+    "carbohydrates": 84.4,
+    "sugar": 36.79
+  },
+  {
+    "id": 8666,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, Cinnamon Burst CHEERIOS",
+    "kcal": 375,
+    "protein": 6.3,
+    "carbohydrates": 83.2,
+    "sugar": 28.1
+  },
+  {
+    "id": 8595,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, Cinnamon CHEX",
+    "kcal": 403,
+    "protein": 5,
+    "carbohydrates": 82.4,
+    "sugar": 26.1
+  },
+  {
+    "id": 8272,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, CINNAMON TOAST CRUNCH",
+    "kcal": 410,
+    "protein": 5.45,
+    "carbohydrates": 77.99,
+    "sugar": 30.3
+  },
+  {
+    "id": 8271,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, COCOA PUFFS",
+    "kcal": 383,
+    "protein": 5.6,
+    "carbohydrates": 83.7,
+    "sugar": 37.2
+  },
+  {
+    "id": 8635,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, COCOA PUFFS, 25% Reduced Sugar",
+    "kcal": 380,
+    "protein": 6.5,
+    "carbohydrates": 82.69,
+    "sugar": 25.79
+  },
+  {
+    "id": 8017,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, COOKIE CRISP",
+    "kcal": 380,
+    "protein": 5.2,
+    "carbohydrates": 84.5,
+    "sugar": 34.8
+  },
+  {
+    "id": 8019,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, Corn CHEX",
+    "kcal": 370,
+    "protein": 6.4,
+    "carbohydrates": 85,
+    "sugar": 11.1
+  },
+  {
+    "id": 8270,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, COUNT CHOCULA",
+    "kcal": 383,
+    "protein": 5.4,
+    "carbohydrates": 84.5,
+    "sugar": 33.09
+  },
+  {
+    "id": 8582,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, DORA THE EXPLORER",
+    "kcal": 366,
+    "protein": 5.6,
+    "carbohydrates": 82.8,
+    "sugar": 21.2
+  },
+  {
+    "id": 8671,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, Dulce De Leche CHEERIOS",
+    "kcal": 378,
+    "protein": 6.5,
+    "carbohydrates": 82,
+    "sugar": 20.89
+  },
+  {
+    "id": 8669,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, FIBER ONE 80 Calories, Chocolate Squares",
+    "kcal": 253,
+    "protein": 3.29,
+    "carbohydrates": 84,
+    "sugar": 17.29
+  },
+  {
+    "id": 8651,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, FIBER ONE 80 Calories, Honey Squares",
+    "kcal": 248,
+    "protein": 4.8,
+    "carbohydrates": 85.19,
+    "sugar": 10.8
+  },
+  {
+    "id": 8244,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, FIBER ONE Bran Cereal",
+    "kcal": 207,
+    "protein": 6.59,
+    "carbohydrates": 84.3,
+    "sugar": 1
+  },
+  {
+    "id": 8596,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, FIBER ONE, Caramel Delight",
+    "kcal": 344,
+    "protein": 5.8,
+    "carbohydrates": 82.69,
+    "sugar": 20.79
+  },
+  {
+    "id": 8598,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, FIBER ONE, HONEY CLUSTERS",
+    "kcal": 323,
+    "protein": 7.69,
+    "carbohydrates": 83.9,
+    "sugar": 17.79
+  },
+  {
+    "id": 8668,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, FIBER ONE, Nutty Clusters  &  Almonds",
+    "kcal": 348,
+    "protein": 7.9,
+    "carbohydrates": 79.5,
+    "sugar": 22.1
+  },
+  {
+    "id": 8599,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, FIBER ONE, RAISIN BRAN CLUSTERS",
+    "kcal": 317,
+    "protein": 6.3,
+    "carbohydrates": 83.4,
+    "sugar": 25.6
+  },
+  {
+    "id": 8268,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, FRANKENBERRY",
+    "kcal": 386,
+    "protein": 5.5,
+    "carbohydrates": 85.4,
+    "sugar": 27.29
+  },
+  {
+    "id": 8267,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, FROSTED CHEERIOS",
+    "kcal": 376,
+    "protein": 9,
+    "carbohydrates": 79.8,
+    "sugar": 32
+  },
+  {
+    "id": 8679,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, FROSTED TOAST CRUNCH",
+    "kcal": 410,
+    "protein": 5.19,
+    "carbohydrates": 78.59,
+    "sugar": 29.2
+  },
+  {
+    "id": 8583,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, Fruity CHEERIOS",
+    "kcal": 381,
+    "protein": 5.8,
+    "carbohydrates": 84.19,
+    "sugar": 32.2
+  },
+  {
+    "id": 8035,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, GOLDEN GRAHAMS",
+    "kcal": 374,
+    "protein": 5.3,
+    "carbohydrates": 85.1,
+    "sugar": 35
+  },
+  {
+    "id": 8643,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, Honey KIX",
+    "kcal": 364,
+    "protein": 6.4,
+    "carbohydrates": 83,
+    "sugar": 18.2
+  },
+  {
+    "id": 8045,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, HONEY NUT CHEERIOS",
+    "kcal": 376,
+    "protein": 8.85,
+    "carbohydrates": 79.69,
+    "sugar": 32.89
+  },
+  {
+    "id": 8670,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, HONEY NUT CHEERIOS, MEDLEY CRUNCH",
+    "kcal": 387,
+    "protein": 9.1,
+    "carbohydrates": 79.5,
+    "sugar": 29.1
+  },
+  {
+    "id": 8057,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, Honey Nut CHEX",
+    "kcal": 375,
+    "protein": 6.3,
+    "carbohydrates": 86.67,
+    "sugar": 28.1
+  },
+  {
+    "id": 8243,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, HONEY NUT CLUSTERS",
+    "kcal": 374,
+    "protein": 7.7,
+    "carbohydrates": 85.2,
+    "sugar": 24.8
+  },
+  {
+    "id": 8048,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, KIX",
+    "kcal": 357,
+    "protein": 7.69,
+    "carbohydrates": 82.82,
+    "sugar": 9.76
+  },
+  {
+    "id": 8050,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, LUCKY CHARMS",
+    "kcal": 380,
+    "protein": 7.67,
+    "carbohydrates": 80.89,
+    "sugar": 36.13
+  },
+  {
+    "id": 8682,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, Multi Grain CHEERIOS, Peanut Butter",
+    "kcal": 390,
+    "protein": 6.8,
+    "carbohydrates": 82,
+    "sugar": 32.5
+  },
+  {
+    "id": 8087,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, Multi-Grain CHEERIOS",
+    "kcal": 370,
+    "protein": 8.3,
+    "carbohydrates": 81.4,
+    "sugar": 21.2
+  },
+  {
+    "id": 8277,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, NATURE VALLEY LOW FAT FRUIT GRANOLA",
+    "kcal": 381,
+    "protein": 7.9,
+    "carbohydrates": 79.4,
+    "sugar": 31.89
+  },
+  {
+    "id": 8637,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, Oat Cluster CHEERIOS Crunch",
+    "kcal": 378,
+    "protein": 8.5,
+    "carbohydrates": 80.7,
+    "sugar": 27.9
+  },
+  {
+    "id": 8202,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, OATMEAL CRISP, Crunchy Almond",
+    "kcal": 390,
+    "protein": 9.89,
+    "carbohydrates": 78.09,
+    "sugar": 22.89
+  },
+  {
+    "id": 8245,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, OATMEAL CRISP, Hearty Raisin",
+    "kcal": 372,
+    "protein": 8.5,
+    "carbohydrates": 80.8,
+    "sugar": 27.29
+  },
+  {
+    "id": 8634,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, PEANUT BUTTER TOAST CRUNCH",
+    "kcal": 410,
+    "protein": 8.19,
+    "carbohydrates": 76.19,
+    "sugar": 27.1
+  },
+  {
+    "id": 8261,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, RAISIN NUT BRAN",
+    "kcal": 368,
+    "protein": 8.19,
+    "carbohydrates": 80,
+    "sugar": 28.5
+  },
+  {
+    "id": 8194,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, REESE'S PUFFS",
+    "kcal": 413,
+    "protein": 6.8,
+    "carbohydrates": 75.6,
+    "sugar": 35.3
+  },
+  {
+    "id": 8064,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, Rice CHEX",
+    "kcal": 375,
+    "protein": 6.4,
+    "carbohydrates": 85.09,
+    "sugar": 8
+  },
+  {
+    "id": 8370,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, RICE CRUNCHINS",
+    "kcal": 381,
+    "protein": 4.76,
+    "carbohydrates": 80.95,
+    "sugar": 9.52
+  },
+  {
+    "id": 8247,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, TOTAL Raisin Bran",
+    "kcal": 312,
+    "protein": 5.6,
+    "carbohydrates": 76.8,
+    "sugar": 32.3
+  },
+  {
+    "id": 8078,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, TRIX",
+    "kcal": 384,
+    "protein": 4.9,
+    "carbohydrates": 86.19,
+    "sugar": 32
+  },
+  {
+    "id": 8082,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, Wheat CHEX",
+    "kcal": 345,
+    "protein": 9.8,
+    "carbohydrates": 82.2,
+    "sugar": 10.3
+  },
+  {
+    "id": 8089,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, WHEATIES",
+    "kcal": 353,
+    "protein": 8.3,
+    "carbohydrates": 83.3,
+    "sugar": 15.2
+  },
+  {
+    "id": 8077,
+    "description": "Cereals ready-to-eat, GENERAL MILLS, Whole Grain TOTAL",
+    "kcal": 320,
+    "protein": 8.4,
+    "carbohydrates": 74.7,
+    "sugar": 16.4
+  },
+  {
+    "id": 8037,
+    "description": "Cereals ready-to-eat, granola, homemade",
+    "kcal": 489,
+    "protein": 13.67,
+    "carbohydrates": 53.88,
+    "sugar": 19.8
+  },
+  {
+    "id": 8290,
+    "description": "Cereals ready-to-eat, HEALTH VALLEY, FIBER 7 Flakes",
+    "kcal": 353,
+    "protein": 14.44,
+    "carbohydrates": 78.15,
+    "sugar": 20
+  },
+  {
+    "id": 8537,
+    "description": "Cereals ready-to-eat, KASHI 7 Whole Grain Flakes",
+    "kcal": 337,
+    "protein": 11,
+    "carbohydrates": 81.4,
+    "sugar": 11.3
+  },
+  {
+    "id": 8389,
+    "description": "Cereals ready-to-eat, KASHI 7 Whole Grain Honey Puffs",
+    "kcal": 349,
+    "protein": 10,
+    "carbohydrates": 79,
+    "sugar": 21.8
+  },
+  {
+    "id": 8567,
+    "description": "Cereals ready-to-eat, KASHI 7 Whole Grain Nuggets",
+    "kcal": 356,
+    "protein": 11.8,
+    "carbohydrates": 81,
+    "sugar": 5
+  },
+  {
+    "id": 8388,
+    "description": "Cereals ready-to-eat, KASHI 7 Whole Grain Puffs",
+    "kcal": 336,
+    "protein": 13,
+    "carbohydrates": 78.6,
+    "sugar": 0.93
+  },
+  {
+    "id": 8608,
+    "description": "Cereals ready-to-eat, KASHI Berry Blossom",
+    "kcal": 322,
+    "protein": 7.5,
+    "carbohydrates": 83.09,
+    "sugar": 23.39
+  },
+  {
+    "id": 8560,
+    "description": "Cereals ready-to-eat, KASHI GO LEAN CRUNCH!, Honey Almond Flax",
+    "kcal": 379,
+    "protein": 16.79,
+    "carbohydrates": 66.9,
+    "sugar": 22.2
+  },
+  {
+    "id": 8393,
+    "description": "Cereals ready-to-eat, KASHI GOLEAN",
+    "kcal": 311,
+    "protein": 24.89,
+    "carbohydrates": 67.19,
+    "sugar": 16.5
+  },
+  {
+    "id": 8649,
+    "description": "Cereals ready-to-eat, KASHI GOLEAN CRISP Cinnamon Crumble",
+    "kcal": 362,
+    "protein": 22.1,
+    "carbohydrates": 62.59,
+    "sugar": 18.6
+  },
+  {
+    "id": 8589,
+    "description": "Cereals ready-to-eat, KASHI GOLEAN CRISP Toasted Berry Crumble",
+    "kcal": 368,
+    "protein": 18,
+    "carbohydrates": 66.69,
+    "sugar": 21.7
+  },
+  {
+    "id": 8386,
+    "description": "Cereals ready-to-eat, KASHI GOLEAN CRUNCH!",
+    "kcal": 367,
+    "protein": 16.7,
+    "carbohydrates": 71.4,
+    "sugar": 24
+  },
+  {
+    "id": 8705,
+    "description": "Cereals ready-to-eat, KASHI GOLEAN Vanilla Graham Clusters",
+    "kcal": 330,
+    "protein": 21.5,
+    "carbohydrates": 70.09,
+    "sugar": 17.79
+  },
+  {
+    "id": 8390,
+    "description": "Cereals ready-to-eat, KASHI GOOD FRIENDS",
+    "kcal": 299,
+    "protein": 9.4,
+    "carbohydrates": 79.3,
+    "sugar": 18.8
+  },
+  {
+    "id": 8387,
+    "description": "Cereals ready-to-eat, KASHI HEART TO HEART, Honey Toasted Oat",
+    "kcal": 364,
+    "protein": 11.39,
+    "carbohydrates": 78.69,
+    "sugar": 15.5
+  },
+  {
+    "id": 8590,
+    "description": "Cereals ready-to-eat, KASHI HEART TO HEART, Warm Cinnamon",
+    "kcal": 365,
+    "protein": 11.6,
+    "carbohydrates": 78.5,
+    "sugar": 15.69
+  },
+  {
+    "id": 8610,
+    "description": "Cereals ready-to-eat, KASHI Honey Sunshine",
+    "kcal": 332,
+    "protein": 7.8,
+    "carbohydrates": 82,
+    "sugar": 20.29
+  },
+  {
+    "id": 8647,
+    "description": "Cereals ready-to-eat, KASHI INDIGO MORNING",
+    "kcal": 364,
+    "protein": 7.7,
+    "carbohydrates": 82.8,
+    "sugar": 22.2
+  },
+  {
+    "id": 8663,
+    "description": "Cereals ready-to-eat, KASHI ORGANIC PROMISE, Berry Fruitful",
+    "kcal": 318,
+    "protein": 10.7,
+    "carbohydrates": 76.2,
+    "sugar": 14.6
+  },
+  {
+    "id": 8539,
+    "description": "Cereals ready-to-eat, KASHI ORGANIC PROMISE, CINNAMON HARVEST",
+    "kcal": 336,
+    "protein": 11,
+    "carbohydrates": 79,
+    "sugar": 16.5
+  },
+  {
+    "id": 8591,
+    "description": "Cereals ready-to-eat, KASHI ORGANIC PROMISE, ISLAND VANILLA",
+    "kcal": 350,
+    "protein": 10.7,
+    "carbohydrates": 80.8,
+    "sugar": 16.9
+  },
+  {
+    "id": 8697,
+    "description": "Cereals ready-to-eat, KASHI ORGANIC PROMISE, RAISIN VINEYARD",
+    "kcal": 342,
+    "protein": 8.69,
+    "carbohydrates": 79.9,
+    "sugar": 23.39
+  },
+  {
+    "id": 8463,
+    "description": "Cereals ready-to-eat, KASHI ORGANIC PROMISE, STRAWBERRY FIELDS",
+    "kcal": 358,
+    "protein": 9.4,
+    "carbohydrates": 83.5,
+    "sugar": 20.5
+  },
+  {
+    "id": 8648,
+    "description": "Cereals ready-to-eat, KASHI Simply Maize",
+    "kcal": 371,
+    "protein": 7.8,
+    "carbohydrates": 83.3,
+    "sugar": 22.1
+  },
+  {
+    "id": 8538,
+    "description": "Cereals ready-to-eat, KASHI, HEART TO HEART, Oat Flakes  &  Blueberry Clusters",
+    "kcal": 376,
+    "protein": 10.39,
+    "carbohydrates": 80.3,
+    "sugar": 22.7
+  },
+  {
+    "id": 8462,
+    "description": "Cereals ready-to-eat, KASHI, ORGANIC PROMISE Autumn Wheat",
+    "kcal": 338,
+    "protein": 12,
+    "carbohydrates": 79,
+    "sugar": 12.4
+  },
+  {
+    "id": 8700,
+    "description": "Cereals ready-to-eat, KELLOGG RAISIN BRAN with Omega-3 from flaxseed",
+    "kcal": 349,
+    "protein": 7.3,
+    "carbohydrates": 82.69,
+    "sugar": 31.29
+  },
+  {
+    "id": 8706,
+    "description": "Cereals ready-to-eat, KELLOGG SCOOBY-DOO! cereal",
+    "kcal": 376,
+    "protein": 8.6,
+    "carbohydrates": 84,
+    "sugar": 18.5
+  },
+  {
+    "id": 8660,
+    "description": "Cereals ready-to-eat, KELLOGG'S APPLE JACKS with marshmallows",
+    "kcal": 378,
+    "protein": 4.3,
+    "carbohydrates": 89.6,
+    "sugar": 51.1
+  },
+  {
+    "id": 8661,
+    "description": "Cereals ready-to-eat, KELLOGG'S CINNAMON JACKS",
+    "kcal": 397,
+    "protein": 5.9,
+    "carbohydrates": 83,
+    "sugar": 33.9
+  },
+  {
+    "id": 8615,
+    "description": "Cereals ready-to-eat, KELLOGG'S CRUNCHY NUT Golden Honey Nut flakes",
+    "kcal": 385,
+    "protein": 6.7,
+    "carbohydrates": 83.3,
+    "sugar": 33.5
+  },
+  {
+    "id": 8659,
+    "description": "Cereals ready-to-eat, KELLOGG'S FROSTED FLAKES, CHOCO ZUCARITAS",
+    "kcal": 387,
+    "protein": 5.1,
+    "carbohydrates": 85.1,
+    "sugar": 38.1
+  },
+  {
+    "id": 8617,
+    "description": "Cereals ready-to-eat, KELLOGG's FROSTED MINI-WHEATS Bite Size Blueberry Muffin",
+    "kcal": 352,
+    "protein": 8.6,
+    "carbohydrates": 84.8,
+    "sugar": 22.7
+  },
+  {
+    "id": 8631,
+    "description": "Cereals ready-to-eat, KELLOGG'S FROSTED MINI-WHEATS LITTLE BITES, chocolate",
+    "kcal": 354,
+    "protein": 8.5,
+    "carbohydrates": 81.4,
+    "sugar": 22.29
+  },
+  {
+    "id": 8708,
+    "description": "Cereals ready-to-eat, KELLOGG's FROSTED MINI-WHEATS Touch of Fruit in the Middle, raisin",
+    "kcal": 343,
+    "protein": 9.1,
+    "carbohydrates": 82.1,
+    "sugar": 17.2
+  },
+  {
+    "id": 8677,
+    "description": "Cereals ready-to-eat, KELLOGG'S FROSTED MINI-WHEATS Touch of Fruit in the Middle, Raspberry",
+    "kcal": 342,
+    "protein": 8.8,
+    "carbohydrates": 82.1,
+    "sugar": 17.8
+  },
+  {
+    "id": 8031,
+    "description": "Cereals ready-to-eat, KELLOGG'S FROSTED MINI-WHEATS, Big Bite",
+    "kcal": 350,
+    "protein": 9.2,
+    "carbohydrates": 83.4,
+    "sugar": 20.3
+  },
+  {
+    "id": 8652,
+    "description": "Cereals ready-to-eat, KELLOGG'S KRAVE chocolate cereal",
+    "kcal": 397,
+    "protein": 7,
+    "carbohydrates": 76.1,
+    "sugar": 35.7
+  },
+  {
+    "id": 8658,
+    "description": "Cereals ready-to-eat, KELLOGG'S KRAVE double chocolate cereal",
+    "kcal": 397,
+    "protein": 7.1,
+    "carbohydrates": 75.9,
+    "sugar": 36.3
+  },
+  {
+    "id": 8699,
+    "description": "Cereals ready-to-eat, KELLOGG'S KRAVE Smores",
+    "kcal": 401,
+    "protein": 7.3,
+    "carbohydrates": 76.4,
+    "sugar": 31.7
+  },
+  {
+    "id": 8653,
+    "description": "Cereals ready-to-eat, KELLOGG'S RICE KRISPIES, Gluten Free",
+    "kcal": 371,
+    "protein": 7.8,
+    "carbohydrates": 82.4,
+    "sugar": 3.7
+  },
+  {
+    "id": 8707,
+    "description": "Cereals ready-to-eat, KELLOGG'S SPECIAL K Chocolate Almond",
+    "kcal": 375,
+    "protein": 7.59,
+    "carbohydrates": 81.5,
+    "sugar": 27.5
+  },
+  {
+    "id": 8584,
+    "description": "Cereals ready-to-eat, KELLOGG'S SPECIAL K Chocolatey Delight",
+    "kcal": 381,
+    "protein": 6.5,
+    "carbohydrates": 81.2,
+    "sugar": 29.9
+  },
+  {
+    "id": 8613,
+    "description": "Cereals ready-to-eat, KELLOGG'S SPECIAL K Multigrain Oats and Honey",
+    "kcal": 362,
+    "protein": 7.8,
+    "carbohydrates": 85,
+    "sugar": 26.4
+  },
+  {
+    "id": 8542,
+    "description": "Cereals ready-to-eat, KELLOGG'S, FROSTED MINI-WHEATS Bite Size Strawberry Delight",
+    "kcal": 352,
+    "protein": 8.7,
+    "carbohydrates": 84.6,
+    "sugar": 22.7
+  },
+  {
+    "id": 8459,
+    "description": "Cereals ready-to-eat, KELLOGG'S, FROSTED MINI-WHEATS, Maple  &  Brown Sugar, Bite Size",
+    "kcal": 351,
+    "protein": 8.7,
+    "carbohydrates": 84.7,
+    "sugar": 22.7
+  },
+  {
+    "id": 8469,
+    "description": "Cereals ready-to-eat, KELLOGG'S, Reduced Sugar Frosted Flakes Cereal",
+    "kcal": 357,
+    "protein": 5.59,
+    "carbohydrates": 87.3,
+    "sugar": 23.89
+  },
+  {
+    "id": 8710,
+    "description": "Cereals ready-to-eat, KELLOGG'S, SPECIAL K gluten free, touch of brown sugar",
+    "kcal": 369,
+    "protein": 6.09,
+    "carbohydrates": 86.5,
+    "sugar": 19.1
+  },
+  {
+    "id": 8471,
+    "description": "Cereals ready-to-eat, KELLOGG'S, SPECIAL K Protein Plus",
+    "kcal": 359,
+    "protein": 31.2,
+    "carbohydrates": 60.6,
+    "sugar": 20.3
+  },
+  {
+    "id": 8711,
+    "description": "Cereals ready-to-eat, KELLOGG'S, SPECIAL K protein, cinnamon brown sugar crunch",
+    "kcal": 356,
+    "protein": 22.29,
+    "carbohydrates": 69.8,
+    "sugar": 30.29
+  },
+  {
+    "id": 8543,
+    "description": "Cereals ready-to-eat, KELLOGG'S, SPECIAL K Vanilla Almond",
+    "kcal": 366,
+    "protein": 7.8,
+    "carbohydrates": 83,
+    "sugar": 29.2
+  },
+  {
+    "id": 8005,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S ALL-BRAN BRAN BUDS",
+    "kcal": 257,
+    "protein": 8.9,
+    "carbohydrates": 81,
+    "sugar": 26.7
+  },
+  {
+    "id": 8028,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S ALL-BRAN COMPLETE Wheat Flakes",
+    "kcal": 327,
+    "protein": 10.2,
+    "carbohydrates": 81.6,
+    "sugar": 18.8
+  },
+  {
+    "id": 8001,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S ALL-BRAN Original",
+    "kcal": 259,
+    "protein": 13.14,
+    "carbohydrates": 74.24,
+    "sugar": 15.69
+  },
+  {
+    "id": 8003,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S APPLE JACKS",
+    "kcal": 375,
+    "protein": 5.1,
+    "carbohydrates": 88.2,
+    "sugar": 43.7
+  },
+  {
+    "id": 8588,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S CINNABON cereal",
+    "kcal": 410,
+    "protein": 5.69,
+    "carbohydrates": 83.3,
+    "sugar": 41.59
+  },
+  {
+    "id": 8014,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S COCOA KRISPIES",
+    "kcal": 389,
+    "protein": 4.6,
+    "carbohydrates": 87.9,
+    "sugar": 38.6
+  },
+  {
+    "id": 8020,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S Corn Flakes",
+    "kcal": 357,
+    "protein": 7.5,
+    "carbohydrates": 84.1,
+    "sugar": 9.5
+  },
+  {
+    "id": 8068,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S CORN POPS",
+    "kcal": 387,
+    "protein": 4.8,
+    "carbohydrates": 89.7,
+    "sugar": 31.3
+  },
+  {
+    "id": 8023,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S CRACKLIN' OAT BRAN",
+    "kcal": 395,
+    "protein": 9.2,
+    "carbohydrates": 70.3,
+    "sugar": 28
+  },
+  {
+    "id": 8259,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S CRISPIX",
+    "kcal": 378,
+    "protein": 6.59,
+    "carbohydrates": 87.19,
+    "sugar": 12.8
+  },
+  {
+    "id": 8030,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S FROOT LOOPS",
+    "kcal": 375,
+    "protein": 5.3,
+    "carbohydrates": 88,
+    "sugar": 41.7
+  },
+  {
+    "id": 8069,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S FROSTED FLAKES",
+    "kcal": 369,
+    "protein": 3.96,
+    "carbohydrates": 89.2,
+    "sugar": 35.43
+  },
+  {
+    "id": 8319,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S FROSTED MINI-WHEATS, bite size",
+    "kcal": 350,
+    "protein": 9.19,
+    "carbohydrates": 83.4,
+    "sugar": 20.29
+  },
+  {
+    "id": 8695,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S FROSTED MINI-WHEATS, little bites",
+    "kcal": 351,
+    "protein": 9.19,
+    "carbohydrates": 83.4,
+    "sugar": 20.2
+  },
+  {
+    "id": 8032,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S FROSTED RICE KRISPIES",
+    "kcal": 384,
+    "protein": 4.3,
+    "carbohydrates": 91.3,
+    "sugar": 40.2
+  },
+  {
+    "id": 8309,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S HONEY CRUNCH CORN FLAKES",
+    "kcal": 385,
+    "protein": 6.8,
+    "carbohydrates": 87,
+    "sugar": 33
+  },
+  {
+    "id": 8071,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S HONEY SMACKS",
+    "kcal": 380,
+    "protein": 5.7,
+    "carbohydrates": 88.5,
+    "sugar": 56.2
+  },
+  {
+    "id": 8284,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S Low Fat Granola with Raisins",
+    "kcal": 381,
+    "protein": 9,
+    "carbohydrates": 80.1,
+    "sugar": 27.9
+  },
+  {
+    "id": 8189,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S Low Fat Granola without Raisins",
+    "kcal": 389,
+    "protein": 8.7,
+    "carbohydrates": 80.9,
+    "sugar": 28.3
+  },
+  {
+    "id": 8376,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S MARSHMALLOW FROOT LOOPS",
+    "kcal": 376,
+    "protein": 4.59,
+    "carbohydrates": 89.3,
+    "sugar": 49.9
+  },
+  {
+    "id": 8384,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S MINI-WHEATS, unfrosted bite size",
+    "kcal": 342,
+    "protein": 11.6,
+    "carbohydrates": 81,
+    "sugar": 0.4
+  },
+  {
+    "id": 8286,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S MUESLIX",
+    "kcal": 355,
+    "protein": 8.6,
+    "carbohydrates": 74.9,
+    "sugar": 25.1
+  },
+  {
+    "id": 8058,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S PRODUCT 19",
+    "kcal": 374,
+    "protein": 8.5,
+    "carbohydrates": 84.3,
+    "sugar": 12.5
+  },
+  {
+    "id": 8060,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S RAISIN BRAN",
+    "kcal": 318,
+    "protein": 7.72,
+    "carbohydrates": 77.29,
+    "sugar": 31.3
+  },
+  {
+    "id": 8712,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S RAISIN BRAN with cranberries",
+    "kcal": 344,
+    "protein": 6.9,
+    "carbohydrates": 84.19,
+    "sugar": 30.29
+  },
+  {
+    "id": 8696,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S RAISIN BRAN, Cinnamon Almond",
+    "kcal": 347,
+    "protein": 7.4,
+    "carbohydrates": 81.19,
+    "sugar": 31.29
+  },
+  {
+    "id": 8065,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S RICE KRISPIES",
+    "kcal": 381,
+    "protein": 6.75,
+    "carbohydrates": 85.05,
+    "sugar": 9.87
+  },
+  {
+    "id": 8288,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S RICE KRISPIES TREATS Cereal",
+    "kcal": 395,
+    "protein": 4.3,
+    "carbohydrates": 85.59,
+    "sugar": 29.6
+  },
+  {
+    "id": 8318,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S SMART START Strong Heart Antioxidants Cereal",
+    "kcal": 371,
+    "protein": 7.5,
+    "carbohydrates": 86.8,
+    "sugar": 27.79
+  },
+  {
+    "id": 8067,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECIAL K",
+    "kcal": 377,
+    "protein": 17.79,
+    "carbohydrates": 73.4,
+    "sugar": 12.69
+  },
+  {
+    "id": 8603,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECIAL K Blueberry",
+    "kcal": 363,
+    "protein": 6.9,
+    "carbohydrates": 86.3,
+    "sugar": 26.7
+  },
+  {
+    "id": 8453,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECIAL K Chocolatey Strawberry",
+    "kcal": 368,
+    "protein": 6.9,
+    "carbohydrates": 83.3,
+    "sugar": 28.6
+  },
+  {
+    "id": 8587,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECIAL K Low Fat Granola",
+    "kcal": 375,
+    "protein": 13.1,
+    "carbohydrates": 74.8,
+    "sugar": 18
+  },
+  {
+    "id": 8701,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECIAL K Multi-grain",
+    "kcal": 364,
+    "protein": 7.59,
+    "carbohydrates": 86.59,
+    "sugar": 20.7
+  },
+  {
+    "id": 8383,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECIAL K Red Berries",
+    "kcal": 358,
+    "protein": 6.3,
+    "carbohydrates": 87.09,
+    "sugar": 29.7
+  },
+  {
+    "id": 8602,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECIAL K, Cinnamon Pecan",
+    "kcal": 375,
+    "protein": 7.5,
+    "carbohydrates": 81.2,
+    "sugar": 24
+  },
+  {
+    "id": 8380,
+    "description": "Cereals ready-to-eat, KELLOGG, KELLOGG'S, RAISIN BRAN CRUNCH",
+    "kcal": 354,
+    "protein": 6.59,
+    "carbohydrates": 84.9,
+    "sugar": 35.2
+  },
+  {
+    "id": 8531,
+    "description": "Cereals ready-to-eat, KELLOGG, SPECIAL K, Fruit  &  Yogurt",
+    "kcal": 367,
+    "protein": 7.1,
+    "carbohydrates": 85.3,
+    "sugar": 32.1
+  },
+  {
+    "id": 8493,
+    "description": "Cereals ready-to-eat, MALT-O-MEAL, Apple ZINGS",
+    "kcal": 390,
+    "protein": 4.51,
+    "carbohydrates": 87.3,
+    "sugar": 44.61
+  },
+  {
+    "id": 8347,
+    "description": "Cereals ready-to-eat, MALT-O-MEAL, BERRY COLOSSAL CRUNCH",
+    "kcal": 396,
+    "protein": 4.19,
+    "carbohydrates": 86.55,
+    "sugar": 41.66
+  },
+  {
+    "id": 8487,
+    "description": "Cereals ready-to-eat, MALT-O-MEAL, Blueberry MUFFIN TOPS Cereal",
+    "kcal": 443,
+    "protein": 4.9,
+    "carbohydrates": 79.91,
+    "sugar": 35.36
+  },
+  {
+    "id": 8672,
+    "description": "Cereals ready-to-eat, MALT-O-MEAL, CHOCOLATE MARSHMALLOW MATEYS",
+    "kcal": 392,
+    "protein": 3.5,
+    "carbohydrates": 88.18,
+    "sugar": 55.45
+  },
+  {
+    "id": 8494,
+    "description": "Cereals ready-to-eat, MALT-O-MEAL, CINNAMON TOASTERS",
+    "kcal": 425,
+    "protein": 3.32,
+    "carbohydrates": 78.33,
+    "sugar": 32.86
+  },
+  {
+    "id": 8206,
+    "description": "Cereals ready-to-eat, MALT-O-MEAL, COCO-ROOS",
+    "kcal": 389,
+    "protein": 3.41,
+    "carbohydrates": 86.75,
+    "sugar": 48.11
+  },
+  {
+    "id": 8495,
+    "description": "Cereals ready-to-eat, MALT-O-MEAL, Cocoa DYNO-BITES",
+    "kcal": 397,
+    "protein": 4.15,
+    "carbohydrates": 87.93,
+    "sugar": 43.15
+  },
+  {
+    "id": 8346,
+    "description": "Cereals ready-to-eat, MALT-O-MEAL, COLOSSAL CRUNCH",
+    "kcal": 401,
+    "protein": 3.64,
+    "carbohydrates": 81.59,
+    "sugar": 42.5
+  },
+  {
+    "id": 8083,
+    "description": "Cereals ready-to-eat, MALT-O-MEAL, CORN BURSTS",
+    "kcal": 385,
+    "protein": 3.32,
+    "carbohydrates": 90.59,
+    "sugar": 46.88
+  },
+  {
+    "id": 8348,
+    "description": "Cereals ready-to-eat, MALT-O-MEAL, Crispy Rice",
+    "kcal": 346,
+    "protein": 6.07,
+    "carbohydrates": 86.4,
+    "sugar": 7.82
+  },
+  {
+    "id": 8409,
+    "description": "Cereals ready-to-eat, MALT-O-MEAL, Frosted Flakes",
+    "kcal": 389,
+    "protein": 4.25,
+    "carbohydrates": 90.2,
+    "sugar": 39.27
+  },
+  {
+    "id": 8500,
+    "description": "Cereals ready-to-eat, MALT-O-MEAL, Frosted Mini SPOONERS",
+    "kcal": 354,
+    "protein": 9.09,
+    "carbohydrates": 81.81,
+    "sugar": 20
+  },
+  {
+    "id": 8501,
+    "description": "Cereals ready-to-eat, MALT-O-MEAL, Fruity DYNO-BITES",
+    "kcal": 404,
+    "protein": 3.9,
+    "carbohydrates": 90.1,
+    "sugar": 42.6
+  },
+  {
+    "id": 8478,
+    "description": "Cereals ready-to-eat, MALT-O-MEAL, GOLDEN PUFFS",
+    "kcal": 370,
+    "protein": 5.77,
+    "carbohydrates": 89.72,
+    "sugar": 51.34
+  },
+  {
+    "id": 8476,
+    "description": "Cereals ready-to-eat, MALT-O-MEAL, Honey BUZZERS",
+    "kcal": 379,
+    "protein": 3.45,
+    "carbohydrates": 89.66,
+    "sugar": 37.93
+  },
+  {
+    "id": 8481,
+    "description": "Cereals ready-to-eat, MALT-O-MEAL, HONEY GRAHAM SQUARES",
+    "kcal": 398,
+    "protein": 4.46,
+    "carbohydrates": 74.68,
+    "sugar": 32.7
+  },
+  {
+    "id": 8676,
+    "description": "Cereals ready-to-eat, MALT-O-MEAL, Honey Nut SCOOTERS",
+    "kcal": 387,
+    "protein": 8.59,
+    "carbohydrates": 79.62,
+    "sugar": 29.97
+  },
+  {
+    "id": 8138,
+    "description": "Cereals ready-to-eat, MALT-O-MEAL, MARSHMALLOW MATEYS",
+    "kcal": 387,
+    "protein": 6.94,
+    "carbohydrates": 82.77,
+    "sugar": 40.91
+  },
+  {
+    "id": 8674,
+    "description": "Cereals ready-to-eat, MALT-O-MEAL, OAT BLENDERS with honey",
+    "kcal": 396,
+    "protein": 6.78,
+    "carbohydrates": 84.94,
+    "sugar": 21.62
+  },
+  {
+    "id": 8675,
+    "description": "Cereals ready-to-eat, MALT-O-MEAL, OAT BLENDERS with honey  &  almonds",
+    "kcal": 379,
+    "protein": 7.8,
+    "carbohydrates": 77.26,
+    "sugar": 20.26
+  },
+  {
+    "id": 8484,
+    "description": "Cereals ready-to-eat, MALT-O-MEAL, Raisin Bran Cereal",
+    "kcal": 342,
+    "protein": 7.63,
+    "carbohydrates": 80.37,
+    "sugar": 33.04
+  },
+  {
+    "id": 8349,
+    "description": "Cereals ready-to-eat, MALT-O-MEAL, TOOTIE FRUITIES",
+    "kcal": 391,
+    "protein": 4.69,
+    "carbohydrates": 85.94,
+    "sugar": 45.31
+  },
+  {
+    "id": 8491,
+    "description": "Cereals ready-to-eat, MOM'S BEST, Honey Nut TOASTY O'S",
+    "kcal": 388,
+    "protein": 8.6,
+    "carbohydrates": 79.84,
+    "sugar": 30.17
+  },
+  {
+    "id": 8709,
+    "description": "Cereals ready-to-eat, MOM'S BEST, Sweetened WHEAT-FULS",
+    "kcal": 373,
+    "protein": 8.18,
+    "carbohydrates": 80.91,
+    "sugar": 20.29
+  },
+  {
+    "id": 8656,
+    "description": "Cereals ready-to-eat, NATURE'S PATH, Organic FLAX PLUS flakes",
+    "kcal": 350,
+    "protein": 11.91,
+    "carbohydrates": 75.27,
+    "sugar": 12.25
+  },
+  {
+    "id": 8571,
+    "description": "Cereals ready-to-eat, NATURE'S PATH, Organic FLAX PLUS, Pumpkin Granola",
+    "kcal": 467,
+    "protein": 11.23,
+    "carbohydrates": 66.1,
+    "sugar": 18.17
+  },
+  {
+    "id": 43495,
+    "description": "Cereals ready-to-eat, OAT BRAN FLAKES, HEALTH VALLEY",
+    "kcal": 380,
+    "protein": 10,
+    "carbohydrates": 78,
+    "sugar": 22
+  },
+  {
+    "id": 8029,
+    "description": "Cereals ready-to-eat, POST Bran Flakes",
+    "kcal": 328,
+    "protein": 9.9,
+    "carbohydrates": 80.5,
+    "sugar": 18.6
+  },
+  {
+    "id": 42297,
+    "description": "Cereals ready-to-eat, POST GREAT GRAINS Banana Nut Crunch",
+    "kcal": 390,
+    "protein": 9.8,
+    "carbohydrates": 70.9,
+    "sugar": 17.5
+  },
+  {
+    "id": 8544,
+    "description": "Cereals ready-to-eat, POST GREAT GRAINS Cranberry Almond Crunch",
+    "kcal": 384,
+    "protein": 8.9,
+    "carbohydrates": 76.6,
+    "sugar": 25.5
+  },
+  {
+    "id": 8665,
+    "description": "Cereals ready-to-eat, POST HONEY BUNCHES OF OATS with cinnamon bunches",
+    "kcal": 400,
+    "protein": 7.1,
+    "carbohydrates": 82.8,
+    "sugar": 20.4
+  },
+  {
+    "id": 8061,
+    "description": "Cereals ready-to-eat, POST Raisin Bran Cereal",
+    "kcal": 324,
+    "protein": 7.6,
+    "carbohydrates": 78.9,
+    "sugar": 32.9
+  },
+  {
+    "id": 8192,
+    "description": "Cereals ready-to-eat, POST SELECTS Blueberry Morning",
+    "kcal": 395,
+    "protein": 6.5,
+    "carbohydrates": 81.6,
+    "sugar": 29.2
+  },
+  {
+    "id": 8554,
+    "description": "Cereals ready-to-eat, POST SELECTS Maple Pecan Crunch",
+    "kcal": 413,
+    "protein": 8.5,
+    "carbohydrates": 77.4,
+    "sugar": 22.5
+  },
+  {
+    "id": 8002,
+    "description": "Cereals ready-to-eat, POST, ALPHA-BITS",
+    "kcal": 389,
+    "protein": 10,
+    "carbohydrates": 80.3,
+    "sugar": 21
+  },
+  {
+    "id": 8015,
+    "description": "Cereals ready-to-eat, POST, COCOA PEBBLES",
+    "kcal": 397,
+    "protein": 4.8,
+    "carbohydrates": 85.7,
+    "sugar": 35.8
+  },
+  {
+    "id": 8034,
+    "description": "Cereals ready-to-eat, POST, FRUITY PEBBLES",
+    "kcal": 402,
+    "protein": 4.62,
+    "carbohydrates": 86.1,
+    "sugar": 34.28
+  },
+  {
+    "id": 8073,
+    "description": "Cereals ready-to-eat, POST, GOLDEN CRISP",
+    "kcal": 380,
+    "protein": 5.5,
+    "carbohydrates": 90.1,
+    "sugar": 53.6
+  },
+  {
+    "id": 8038,
+    "description": "Cereals ready-to-eat, POST, GRAPE-NUTS Cereal",
+    "kcal": 361,
+    "protein": 11.22,
+    "carbohydrates": 80.49,
+    "sugar": 8.86
+  },
+  {
+    "id": 8039,
+    "description": "Cereals ready-to-eat, POST, GRAPE-NUTS Flakes",
+    "kcal": 376,
+    "protein": 9.4,
+    "carbohydrates": 82,
+    "sugar": 15.2
+  },
+  {
+    "id": 42261,
+    "description": "Cereals ready-to-eat, POST, GREAT GRAINS Crunchy Pecan Cereal",
+    "kcal": 403,
+    "protein": 9,
+    "carbohydrates": 73,
+    "sugar": 15.4
+  },
+  {
+    "id": 42265,
+    "description": "Cereals ready-to-eat, POST, GREAT GRAINS, Raisin, Date  &  Pecan",
+    "kcal": 378,
+    "protein": 7.9,
+    "carbohydrates": 74.3,
+    "sugar": 24.1
+  },
+  {
+    "id": 8633,
+    "description": "Cereals ready-to-eat, POST, HONEY BUNCHES OF OATS with vanilla bunches",
+    "kcal": 394,
+    "protein": 7.9,
+    "carbohydrates": 81.8,
+    "sugar": 20.7
+  },
+  {
+    "id": 43570,
+    "description": "Cereals ready-to-eat, POST, HONEY BUNCHES OF OATS, honey roasted",
+    "kcal": 401,
+    "protein": 7.12,
+    "carbohydrates": 81.19,
+    "sugar": 19.79
+  },
+  {
+    "id": 8655,
+    "description": "Cereals ready-to-eat, POST, HONEY BUNCHES OF OATS, pecan bunches",
+    "kcal": 399,
+    "protein": 7,
+    "carbohydrates": 82,
+    "sugar": 21.9
+  },
+  {
+    "id": 42240,
+    "description": "Cereals ready-to-eat, POST, HONEY BUNCHES OF OATS, with almonds",
+    "kcal": 409,
+    "protein": 7.7,
+    "carbohydrates": 79.6,
+    "sugar": 20
+  },
+  {
+    "id": 8662,
+    "description": "Cereals ready-to-eat, POST, HONEY BUNCHES OF OATS, with real strawberries",
+    "kcal": 399,
+    "protein": 6.7,
+    "carbohydrates": 83.3,
+    "sugar": 24
+  },
+  {
+    "id": 8081,
+    "description": "Cereals ready-to-eat, POST, Honey Nut Shredded Wheat",
+    "kcal": 373,
+    "protein": 8.5,
+    "carbohydrates": 83.6,
+    "sugar": 20.7
+  },
+  {
+    "id": 8046,
+    "description": "Cereals ready-to-eat, POST, Honeycomb Cereal",
+    "kcal": 394,
+    "protein": 6.01,
+    "carbohydrates": 86.63,
+    "sugar": 31.51
+  },
+  {
+    "id": 43393,
+    "description": "Cereals ready-to-eat, POST, Shredded Wheat n' Bran, spoon-size",
+    "kcal": 339,
+    "protein": 10.93,
+    "carbohydrates": 80.65,
+    "sugar": 0.75
+  },
+  {
+    "id": 8191,
+    "description": "Cereals ready-to-eat, POST, Shredded Wheat, lightly frosted, spoon-size",
+    "kcal": 352,
+    "protein": 7.8,
+    "carbohydrates": 83.8,
+    "sugar": 22.3
+  },
+  {
+    "id": 8147,
+    "description": "Cereals ready-to-eat, POST, Shredded Wheat, original big biscuit",
+    "kcal": 337,
+    "protein": 11.37,
+    "carbohydrates": 78.96,
+    "sugar": 0.94
+  },
+  {
+    "id": 8148,
+    "description": "Cereals ready-to-eat, POST, Shredded Wheat, original spoon-size",
+    "kcal": 351,
+    "protein": 11.8,
+    "carbohydrates": 81.4,
+    "sugar": 0.9
+  },
+  {
+    "id": 8305,
+    "description": "Cereals ready-to-eat, Post, Waffle Crisp",
+    "kcal": 390,
+    "protein": 6.6,
+    "carbohydrates": 83,
+    "sugar": 34.7
+  },
+  {
+    "id": 8632,
+    "description": "Cereals ready-to-eat, QUAKER Oatmeal Squares, Golden Maple",
+    "kcal": 380,
+    "protein": 11.3,
+    "carbohydrates": 78.04,
+    "sugar": 16.82
+  },
+  {
+    "id": 8685,
+    "description": "Cereals ready-to-eat, QUAKER WHOLE HEARTS oat cereal",
+    "kcal": 376,
+    "protein": 7.63,
+    "carbohydrates": 80.1,
+    "sugar": 21.53
+  },
+  {
+    "id": 8054,
+    "description": "Cereals ready-to-eat, QUAKER, 100% Natural Granola, Oats, Wheat and Honey",
+    "kcal": 421,
+    "protein": 10.55,
+    "carbohydrates": 73.65,
+    "sugar": 20.34
+  },
+  {
+    "id": 8010,
+    "description": "Cereals ready-to-eat, QUAKER, CAP'N CRUNCH",
+    "kcal": 398,
+    "protein": 4.39,
+    "carbohydrates": 85.51,
+    "sugar": 44.32
+  },
+  {
+    "id": 8011,
+    "description": "Cereals ready-to-eat, QUAKER, CAP'N CRUNCH with CRUNCHBERRIES",
+    "kcal": 397,
+    "protein": 4.45,
+    "carbohydrates": 85.93,
+    "sugar": 44.2
+  },
+  {
+    "id": 8625,
+    "description": "Cereals ready-to-eat, QUAKER, CAP'N CRUNCH'S Halloween Crunch",
+    "kcal": 402,
+    "protein": 4.41,
+    "carbohydrates": 85.14,
+    "sugar": 43.82
+  },
+  {
+    "id": 8629,
+    "description": "Cereals ready-to-eat, QUAKER, Cap'n Crunch's OOPS! All Berries Cereal",
+    "kcal": 395,
+    "protein": 4.6,
+    "carbohydrates": 87.1,
+    "sugar": 44.18
+  },
+  {
+    "id": 8012,
+    "description": "Cereals ready-to-eat, QUAKER, CAP'N CRUNCH'S PEANUT BUTTER CRUNCH",
+    "kcal": 417,
+    "protein": 7.1,
+    "carbohydrates": 78.65,
+    "sugar": 33.36
+  },
+  {
+    "id": 8550,
+    "description": "Cereals ready-to-eat, QUAKER, Christmas Crunch",
+    "kcal": 397,
+    "protein": 4.44,
+    "carbohydrates": 85.92,
+    "sugar": 44.31
+  },
+  {
+    "id": 8211,
+    "description": "Cereals ready-to-eat, QUAKER, HONEY GRAHAM OH!S",
+    "kcal": 412,
+    "protein": 3.92,
+    "carbohydrates": 83.65,
+    "sugar": 43.23
+  },
+  {
+    "id": 8047,
+    "description": "Cereals ready-to-eat, QUAKER, KING VITAMAN",
+    "kcal": 381,
+    "protein": 6.41,
+    "carbohydrates": 83.85,
+    "sugar": 20.27
+  },
+  {
+    "id": 8220,
+    "description": "Cereals ready-to-eat, QUAKER, Low Fat 100% Natural Granola with Raisins",
+    "kcal": 388,
+    "protein": 8.42,
+    "carbohydrates": 80.57,
+    "sugar": 25.65
+  },
+  {
+    "id": 8628,
+    "description": "Cereals ready-to-eat, QUAKER, Maple Brown Sugar LIFE Cereal",
+    "kcal": 373,
+    "protein": 9.17,
+    "carbohydrates": 78.86,
+    "sugar": 24.9
+  },
+  {
+    "id": 8353,
+    "description": "Cereals ready-to-eat, QUAKER, MOTHER'S Cinnamon Oat Crunch",
+    "kcal": 382,
+    "protein": 10.6,
+    "carbohydrates": 79.79,
+    "sugar": 25.37
+  },
+  {
+    "id": 8355,
+    "description": "Cereals ready-to-eat, QUAKER, MOTHER'S COCOA BUMPERS",
+    "kcal": 382,
+    "protein": 4.21,
+    "carbohydrates": 89.91,
+    "sugar": 43.12
+  },
+  {
+    "id": 8354,
+    "description": "Cereals ready-to-eat, QUAKER, MOTHER'S GRAHAM BUMPERS",
+    "kcal": 379,
+    "protein": 4.55,
+    "carbohydrates": 88.89,
+    "sugar": 44.33
+  },
+  {
+    "id": 8351,
+    "description": "Cereals ready-to-eat, QUAKER, MOTHER'S PEANUT BUTTER BUMPERS Cereal",
+    "kcal": 407,
+    "protein": 7.62,
+    "carbohydrates": 79.68,
+    "sugar": 29.29
+  },
+  {
+    "id": 8352,
+    "description": "Cereals ready-to-eat, QUAKER, MOTHER'S Toasted Oat Bran cereal",
+    "kcal": 372,
+    "protein": 11.45,
+    "carbohydrates": 75.41,
+    "sugar": 15.57
+  },
+  {
+    "id": 8627,
+    "description": "Cereals ready-to-eat, QUAKER, Natural Granola Apple Cranberry Almond",
+    "kcal": 418,
+    "protein": 9.21,
+    "carbohydrates": 74.73,
+    "sugar": 27.43
+  },
+  {
+    "id": 8214,
+    "description": "Cereals ready-to-eat, QUAKER, Oatmeal Squares",
+    "kcal": 379,
+    "protein": 11.38,
+    "carbohydrates": 77.77,
+    "sugar": 16.69
+  },
+  {
+    "id": 8215,
+    "description": "Cereals ready-to-eat, QUAKER, Oatmeal Squares, cinnamon",
+    "kcal": 379,
+    "protein": 11.23,
+    "carbohydrates": 78.09,
+    "sugar": 16.67
+  },
+  {
+    "id": 8218,
+    "description": "Cereals ready-to-eat, QUAKER, QUAKER 100% Natural Granola with Oats, Wheat, Honey, and Raisins",
+    "kcal": 412,
+    "protein": 9.66,
+    "carbohydrates": 74.67,
+    "sugar": 24.63
+  },
+  {
+    "id": 8018,
+    "description": "Cereals ready-to-eat, QUAKER, QUAKER CRUNCHY BRAN",
+    "kcal": 331,
+    "protein": 6.37,
+    "carbohydrates": 83.68,
+    "sugar": 20.66
+  },
+  {
+    "id": 8549,
+    "description": "Cereals ready-to-eat, QUAKER, QUAKER Honey Graham LIFE Cereal",
+    "kcal": 373,
+    "protein": 9.33,
+    "carbohydrates": 78.56,
+    "sugar": 23.12
+  },
+  {
+    "id": 8210,
+    "description": "Cereals ready-to-eat, QUAKER, QUAKER OAT CINNAMON LIFE",
+    "kcal": 374,
+    "protein": 9.14,
+    "carbohydrates": 79.02,
+    "sugar": 25.18
+  },
+  {
+    "id": 8049,
+    "description": "Cereals ready-to-eat, QUAKER, QUAKER OAT LIFE, plain",
+    "kcal": 374,
+    "protein": 9.98,
+    "carbohydrates": 77.74,
+    "sugar": 19.43
+  },
+  {
+    "id": 8066,
+    "description": "Cereals ready-to-eat, QUAKER, QUAKER Puffed Rice",
+    "kcal": 383,
+    "protein": 7.01,
+    "carbohydrates": 87.78,
+    "sugar": 0
+  },
+  {
+    "id": 8146,
+    "description": "Cereals ready-to-eat, QUAKER, QUAKER Puffed Wheat",
+    "kcal": 366,
+    "protein": 16.26,
+    "carbohydrates": 76.39,
+    "sugar": 1.37
+  },
+  {
+    "id": 8365,
+    "description": "Cereals ready-to-eat, QUAKER, Shredded Wheat, bagged cereal",
+    "kcal": 348,
+    "protein": 11.24,
+    "carbohydrates": 81.01,
+    "sugar": 0.81
+  },
+  {
+    "id": 8059,
+    "description": "Cereals ready-to-eat, QUAKER, SWEET CRUNCH/QUISP",
+    "kcal": 406,
+    "protein": 4.51,
+    "carbohydrates": 85.03,
+    "sugar": 43.36
+  },
+  {
+    "id": 8216,
+    "description": "Cereals ready-to-eat, QUAKER, Toasted Multigrain Crisps",
+    "kcal": 372,
+    "protein": 12.38,
+    "carbohydrates": 74.9,
+    "sugar": 16.34
+  },
+  {
+    "id": 8505,
+    "description": "Cereals ready-to-eat, RALSTON Corn Biscuits",
+    "kcal": 367,
+    "protein": 5.83,
+    "carbohydrates": 85.79,
+    "sugar": 9.51
+  },
+  {
+    "id": 8506,
+    "description": "Cereals ready-to-eat, RALSTON Corn Flakes",
+    "kcal": 357,
+    "protein": 5.9,
+    "carbohydrates": 88.01,
+    "sugar": 7.84
+  },
+  {
+    "id": 8025,
+    "description": "Cereals ready-to-eat, RALSTON CRISP RICE",
+    "kcal": 394,
+    "protein": 6.69,
+    "carbohydrates": 86.22,
+    "sugar": 12.12
+  },
+  {
+    "id": 8507,
+    "description": "Cereals ready-to-eat, RALSTON Crispy Hexagons",
+    "kcal": 379,
+    "protein": 5.94,
+    "carbohydrates": 86.78,
+    "sugar": 13.79
+  },
+  {
+    "id": 8504,
+    "description": "Cereals ready-to-eat, RALSTON Enriched Wheat Bran flakes",
+    "kcal": 310,
+    "protein": 10.21,
+    "carbohydrates": 79.77,
+    "sugar": 17.17
+  },
+  {
+    "id": 8074,
+    "description": "Cereals ready-to-eat, RALSTON TASTEEOS",
+    "kcal": 357,
+    "protein": 10.71,
+    "carbohydrates": 75.5,
+    "sugar": 3.57
+  },
+  {
+    "id": 8085,
+    "description": "Cereals ready-to-eat, SUN COUNTRY, KRETSCHMER Honey Crunch Wheat Germ",
+    "kcal": 372,
+    "protein": 26.55,
+    "carbohydrates": 58.11,
+    "sugar": 21.43
+  },
+  {
+    "id": 8366,
+    "description": "Cereals ready-to-eat, SUN COUNTRY, KRETSCHMER Wheat Germ, Regular",
+    "kcal": 366,
+    "protein": 31.43,
+    "carbohydrates": 49.38,
+    "sugar": 7.14
+  },
+  {
+    "id": 8435,
+    "description": "Cereals ready-to-eat, UNCLE SAM CEREAL",
+    "kcal": 346,
+    "protein": 15.98,
+    "carbohydrates": 65.78,
+    "sugar": 1.56
+  },
+  {
+    "id": 8508,
+    "description": "Cereals ready-to-eat, USDA Commodity Corn and Rice (includes all commodity brands)",
+    "kcal": 378,
+    "protein": 6.06,
+    "carbohydrates": 86.85,
+    "sugar": 10.35
+  },
+  {
+    "id": 8509,
+    "description": "Cereals ready-to-eat, USDA Commodity Rice Crisps (includes all commodity brands)",
+    "kcal": 381,
+    "protein": 6.45,
+    "carbohydrates": 86.04,
+    "sugar": 8.35
+  },
+  {
+    "id": 42237,
+    "description": "Cereals ready-to-eat, WEETABIX whole grain cereal",
+    "kcal": 371,
+    "protein": 11.43,
+    "carbohydrates": 81.5,
+    "sugar": 5.71
+  },
+  {
+    "id": 43245,
+    "description": "Cereals ready-to-eat, wheat and bran, presweetened with nuts and fruits",
+    "kcal": 385,
+    "protein": 7.1,
+    "carbohydrates": 76.2,
+    "sugar": 23.6
+  },
+  {
+    "id": 8084,
+    "description": "Cereals ready-to-eat, wheat germ, toasted, plain",
+    "kcal": 382,
+    "protein": 29.1,
+    "carbohydrates": 49.6,
+    "sugar": 7.8
+  },
+  {
+    "id": 8161,
+    "description": "Cereals, corn grits, white, regular and quick, enriched, cooked with water, with salt",
+    "kcal": 71,
+    "protein": 1.71,
+    "carbohydrates": 14.76,
+    "sugar": 0.12
+  },
+  {
+    "id": 8091,
+    "description": "Cereals, corn grits, white, regular and quick, enriched, cooked with water, without salt",
+    "kcal": 71,
+    "protein": 1.71,
+    "carbohydrates": 14.76,
+    "sugar": 0.12
+  },
+  {
+    "id": 8090,
+    "description": "Cereals, corn grits, white, regular and quick, enriched, dry",
+    "kcal": 370,
+    "protein": 7.65,
+    "carbohydrates": 79.09,
+    "sugar": 0.57
+  },
+  {
+    "id": 8164,
+    "description": "Cereals, corn grits, yellow, regular and quick, enriched, cooked with water, without salt",
+    "kcal": 65,
+    "protein": 1.23,
+    "carbohydrates": 13.86,
+    "sugar": 0.09
+  },
+  {
+    "id": 8159,
+    "description": "Cereals, corn grits, yellow, regular and quick, enriched, dry",
+    "kcal": 368,
+    "protein": 6.72,
+    "carbohydrates": 79.91,
+    "sugar": 0.55
+  },
+  {
+    "id": 8160,
+    "description": "Cereals, corn grits, yellow, regular and quick, unenriched, dry",
+    "kcal": 371,
+    "protein": 8.8,
+    "carbohydrates": 79.6,
+    "sugar": 0.64
+  },
+  {
+    "id": 8165,
+    "description": "Cereals, corn grits, yellow, regular, quick, enriched, cooked with water, with salt",
+    "kcal": 65,
+    "protein": 1.23,
+    "carbohydrates": 13.86,
+    "sugar": 0.09
+  },
+  {
+    "id": 8168,
+    "description": "Cereals, CREAM OF RICE, cooked with water, with salt",
+    "kcal": 52,
+    "protein": 0.9,
+    "carbohydrates": 11.5,
+    "sugar": 0.04
+  },
+  {
+    "id": 8101,
+    "description": "Cereals, CREAM OF RICE, cooked with water, without salt",
+    "kcal": 52,
+    "protein": 0.9,
+    "carbohydrates": 11.4,
+    "sugar": 0.04
+  },
+  {
+    "id": 8100,
+    "description": "Cereals, CREAM OF RICE, dry",
+    "kcal": 370,
+    "protein": 6.3,
+    "carbohydrates": 82.4,
+    "sugar": 0.3
+  },
+  {
+    "id": 8578,
+    "description": "Cereals, CREAM OF WHEAT, 1 minute cook time, cooked with water, microwaved, without salt",
+    "kcal": 55,
+    "protein": 1.95,
+    "carbohydrates": 10.67,
+    "sugar": 2.98
+  },
+  {
+    "id": 8577,
+    "description": "Cereals, CREAM OF WHEAT, 1 minute cook time, cooked with water, stove-top, without salt",
+    "kcal": 56,
+    "protein": 1.65,
+    "carbohydrates": 11.16,
+    "sugar": 0.07
+  },
+  {
+    "id": 8576,
+    "description": "Cereals, CREAM OF WHEAT, 1 minute cook time, dry",
+    "kcal": 359,
+    "protein": 11.77,
+    "carbohydrates": 72.63,
+    "sugar": 0.51
+  },
+  {
+    "id": 8575,
+    "description": "Cereals, CREAM OF WHEAT, 2 1/2 minute cook time, cooked with water, microwaved, without salt",
+    "kcal": 52,
+    "protein": 1.88,
+    "carbohydrates": 10.1,
+    "sugar": 0.34
+  },
+  {
+    "id": 8574,
+    "description": "Cereals, CREAM OF WHEAT, 2 1/2 minute cook time, cooked with water, stove-top, without salt",
+    "kcal": 56,
+    "protein": 1.44,
+    "carbohydrates": 11.74,
+    "sugar": 0.07
+  },
+  {
+    "id": 8573,
+    "description": "Cereals, CREAM OF WHEAT, 2 1/2 minute cook time, dry",
+    "kcal": 355,
+    "protein": 11.61,
+    "carbohydrates": 71.79,
+    "sugar": 0.47
+  },
+  {
+    "id": 8106,
+    "description": "Cereals, CREAM OF WHEAT, instant, dry",
+    "kcal": 366,
+    "protein": 10.6,
+    "carbohydrates": 75.5,
+    "sugar": 0.4
+  },
+  {
+    "id": 8107,
+    "description": "Cereals, CREAM OF WHEAT, instant, prepared with water, without salt",
+    "kcal": 62,
+    "protein": 1.84,
+    "carbohydrates": 13.08,
+    "sugar": 0.07
+  },
+  {
+    "id": 8169,
+    "description": "Cereals, CREAM OF WHEAT, regular (10 minute), cooked with water, with salt",
+    "kcal": 50,
+    "protein": 1.46,
+    "carbohydrates": 10.66,
+    "sugar": 0.03
+  },
+  {
+    "id": 8103,
+    "description": "Cereals, CREAM OF WHEAT, regular (10 minute), cooked with water, without salt",
+    "kcal": 50,
+    "protein": 1.44,
+    "carbohydrates": 10.52,
+    "sugar": 0.03
+  },
+  {
+    "id": 8102,
+    "description": "Cereals, CREAM OF WHEAT, regular, 10 minute cooking, dry",
+    "kcal": 370,
+    "protein": 10.5,
+    "carbohydrates": 76.5,
+    "sugar": 0.2
+  },
+  {
+    "id": 8105,
+    "description": "Cereals, farina, enriched, assorted brands including CREAM OF WHEAT, quick (1-3 minutes), cooked with water, without salt",
+    "kcal": 55,
+    "protein": 1.82,
+    "carbohydrates": 10.92,
+    "sugar": 0.76
+  },
+  {
+    "id": 8104,
+    "description": "Cereals, farina, enriched, assorted brands including CREAM OF WHEAT, quick (1-3 minutes), dry",
+    "kcal": 360,
+    "protein": 11.6,
+    "carbohydrates": 73.19,
+    "sugar": 0.56
+  },
+  {
+    "id": 8173,
+    "description": "Cereals, farina, enriched, cooked with water, with salt",
+    "kcal": 53,
+    "protein": 1.82,
+    "carbohydrates": 10.92,
+    "sugar": 0.76
+  },
+  {
+    "id": 8113,
+    "description": "Cereals, farina, enriched, cooked with water, without salt",
+    "kcal": 53,
+    "protein": 1.82,
+    "carbohydrates": 10.92,
+    "sugar": 0.76
+  },
+  {
+    "id": 8562,
+    "description": "Cereals, KASHI GO LEAN Hot Cereal, Creamy TRULY VANILLA, dry",
+    "kcal": 360,
+    "protein": 22.29,
+    "carbohydrates": 61.09,
+    "sugar": 14.8
+  },
+  {
+    "id": 8561,
+    "description": "Cereals, KASHI GO LEAN Hot Cereal, Hearty Honey  &  Cinnamon, dry",
+    "kcal": 367,
+    "protein": 18.39,
+    "carbohydrates": 68,
+    "sugar": 17.7
+  },
+  {
+    "id": 8568,
+    "description": "Cereals, KASHI HEART TO HEART, Instant Oatmeal, Apple Cinnamon, dry",
+    "kcal": 353,
+    "protein": 11.1,
+    "carbohydrates": 73.8,
+    "sugar": 25
+  },
+  {
+    "id": 8569,
+    "description": "Cereals, KASHI HEART TO HEART, Instant Oatmeal, golden brown maple, dry",
+    "kcal": 356,
+    "protein": 11.39,
+    "carbohydrates": 73.59,
+    "sugar": 23.79
+  },
+  {
+    "id": 8702,
+    "description": "Cereals, KELLOGG'S SPECIAL K NOURISH, Cinnamon Raisin Pecan, dry",
+    "kcal": 370,
+    "protein": 14.1,
+    "carbohydrates": 61.9,
+    "sugar": 23.79
+  },
+  {
+    "id": 8703,
+    "description": "Cereals, KELLOGG'S SPECIAL K NOURISH, Cranberry Almond, dry",
+    "kcal": 361,
+    "protein": 15,
+    "carbohydrates": 63.29,
+    "sugar": 22.39
+  },
+  {
+    "id": 8704,
+    "description": "Cereals, KELLOGG'S SPECIAL K NOURISH, Maple Brown Sugar Crunch, dry",
+    "kcal": 371,
+    "protein": 15.39,
+    "carbohydrates": 62.09,
+    "sugar": 22
+  },
+  {
+    "id": 8177,
+    "description": "Cereals, MALT-O-MEAL, chocolate, dry",
+    "kcal": 363,
+    "protein": 10.6,
+    "carbohydrates": 79.55,
+    "sugar": 16.63
+  },
+  {
+    "id": 8512,
+    "description": "Cereals, MALT-O-MEAL, chocolate, prepared with water, without salt",
+    "kcal": 47,
+    "protein": 1.37,
+    "carbohydrates": 9.22,
+    "sugar": 2.17
+  },
+  {
+    "id": 8488,
+    "description": "Cereals, MALT-O-MEAL, Farina Hot Wheat Cereal, dry",
+    "kcal": 365,
+    "protein": 10.48,
+    "carbohydrates": 77.2,
+    "sugar": 0.7
+  },
+  {
+    "id": 8489,
+    "description": "Cereals, MALT-O-MEAL, Maple  &  Brown Sugar Hot Wheat Cereal, dry",
+    "kcal": 368,
+    "protein": 8.82,
+    "carbohydrates": 80.52,
+    "sugar": 28
+  },
+  {
+    "id": 8116,
+    "description": "Cereals, MALT-O-MEAL, original, plain, dry",
+    "kcal": 365,
+    "protein": 11.8,
+    "carbohydrates": 77.25,
+    "sugar": 0
+  },
+  {
+    "id": 8511,
+    "description": "Cereals, MALT-O-MEAL, original, plain, prepared with water, without salt",
+    "kcal": 48,
+    "protein": 1.67,
+    "carbohydrates": 10.09,
+    "sugar": 0.13
+  },
+  {
+    "id": 8680,
+    "description": "Cereals, oats, instant, fortified, maple and brown sugar, dry",
+    "kcal": 368,
+    "protein": 9.25,
+    "carbohydrates": 76.67,
+    "sugar": 30.28
+  },
+  {
+    "id": 8122,
+    "description": "Cereals, oats, instant, fortified, plain, dry",
+    "kcal": 362,
+    "protein": 11.92,
+    "carbohydrates": 69.52,
+    "sugar": 1.5
+  },
+  {
+    "id": 8123,
+    "description": "Cereals, oats, instant, fortified, plain, prepared with water (boiling water added or microwaved)",
+    "kcal": 68,
+    "protein": 2.37,
+    "carbohydrates": 11.67,
+    "sugar": 0.46
+  },
+  {
+    "id": 8128,
+    "description": "Cereals, oats, instant, fortified, with cinnamon and spice, dry",
+    "kcal": 369,
+    "protein": 9.53,
+    "carbohydrates": 76.08,
+    "sugar": 25.33
+  },
+  {
+    "id": 8129,
+    "description": "Cereals, oats, instant, fortified, with cinnamon and spice, prepared with water",
+    "kcal": 96,
+    "protein": 2.37,
+    "carbohydrates": 18.95,
+    "sugar": 6.31
+  },
+  {
+    "id": 8132,
+    "description": "Cereals, oats, instant, fortified, with raisins and spice, dry",
+    "kcal": 360,
+    "protein": 8.45,
+    "carbohydrates": 76.33,
+    "sugar": 37.14
+  },
+  {
+    "id": 8133,
+    "description": "Cereals, oats, instant, fortified, with raisins and spice, prepared with water",
+    "kcal": 88,
+    "protein": 1.98,
+    "carbohydrates": 17.91,
+    "sugar": 8.71
+  },
+  {
+    "id": 8180,
+    "description": "Cereals, oats, regular and quick and instant, unenriched, cooked with water (includes boiling and microwaving), with salt",
+    "kcal": 71,
+    "protein": 2.54,
+    "carbohydrates": 12,
+    "sugar": 0.27
+  },
+  {
+    "id": 8120,
+    "description": "Cereals, oats, regular and quick, not fortified, dry",
+    "kcal": 379,
+    "protein": 13.15,
+    "carbohydrates": 67.7,
+    "sugar": 0.99
+  },
+  {
+    "id": 8121,
+    "description": "Cereals, oats, regular and quick, unenriched, cooked with water (includes boiling and microwaving), without salt",
+    "kcal": 71,
+    "protein": 2.54,
+    "carbohydrates": 12,
+    "sugar": 0.27
+  },
+  {
+    "id": 8094,
+    "description": "Cereals, QUAKER, corn grits, instant, cheddar cheese flavor, dry",
+    "kcal": 363,
+    "protein": 8.98,
+    "carbohydrates": 72.96,
+    "sugar": 2.76
+  },
+  {
+    "id": 8092,
+    "description": "Cereals, QUAKER, corn grits, instant, plain, dry",
+    "kcal": 343,
+    "protein": 7.31,
+    "carbohydrates": 78.42,
+    "sugar": 1.51
+  },
+  {
+    "id": 8093,
+    "description": "Cereals, QUAKER, corn grits, instant, plain, prepared (microwaved or boiling water added), without salt",
+    "kcal": 74,
+    "protein": 1.58,
+    "carbohydrates": 15.95,
+    "sugar": 0.1
+  },
+  {
+    "id": 8314,
+    "description": "Cereals, QUAKER, hominy grits, white, quick, dry",
+    "kcal": 348,
+    "protein": 8.8,
+    "carbohydrates": 79.6,
+    "sugar": 0.3
+  },
+  {
+    "id": 8316,
+    "description": "Cereals, QUAKER, hominy grits, white, regular, dry",
+    "kcal": 361,
+    "protein": 8.8,
+    "carbohydrates": 79.2,
+    "sugar": 0.64
+  },
+  {
+    "id": 8449,
+    "description": "Cereals, QUAKER, Instant Grits Product with American Cheese Flavor, dry",
+    "kcal": 360,
+    "protein": 8.8,
+    "carbohydrates": 74.18,
+    "sugar": 2.02
+  },
+  {
+    "id": 8221,
+    "description": "Cereals, QUAKER, Instant Grits, Butter flavor, dry",
+    "kcal": 369,
+    "protein": 8.12,
+    "carbohydrates": 74.83,
+    "sugar": 0.88
+  },
+  {
+    "id": 8096,
+    "description": "Cereals, QUAKER, Instant Grits, Country Bacon flavor, dry",
+    "kcal": 340,
+    "protein": 9.93,
+    "carbohydrates": 75.39,
+    "sugar": 0.38
+  },
+  {
+    "id": 8450,
+    "description": "Cereals, QUAKER, Instant Grits, Ham 'n' Cheese flavor, dry",
+    "kcal": 355,
+    "protein": 10.73,
+    "carbohydrates": 71.08,
+    "sugar": 2.69
+  },
+  {
+    "id": 8444,
+    "description": "Cereals, QUAKER, Instant Grits, Redeye Gravy  &  Country Ham flavor, dry",
+    "kcal": 342,
+    "protein": 9.83,
+    "carbohydrates": 75.86,
+    "sugar": 0.71
+  },
+  {
+    "id": 8640,
+    "description": "Cereals, QUAKER, Instant Oatmeal Organic, Regular",
+    "kcal": 367,
+    "protein": 16,
+    "carbohydrates": 67,
+    "sugar": 1
+  },
+  {
+    "id": 8642,
+    "description": "Cereals, QUAKER, Instant Oatmeal, Apple and Cinnamon, reduced sugar",
+    "kcal": 358,
+    "protein": 10.29,
+    "carbohydrates": 72.17,
+    "sugar": 17.78
+  },
+  {
+    "id": 8124,
+    "description": "Cereals, QUAKER, Instant Oatmeal, apples and cinnamon, dry",
+    "kcal": 366,
+    "protein": 8.62,
+    "carbohydrates": 76.74,
+    "sugar": 28.87
+  },
+  {
+    "id": 8417,
+    "description": "Cereals, QUAKER, Instant Oatmeal, Banana Bread, dry",
+    "kcal": 368,
+    "protein": 8.97,
+    "carbohydrates": 75.7,
+    "sugar": 29.45
+  },
+  {
+    "id": 8639,
+    "description": "Cereals, QUAKER, Instant Oatmeal, Cinnamon Spice, reduced sugar",
+    "kcal": 358,
+    "protein": 11.26,
+    "carbohydrates": 69.45,
+    "sugar": 11.91
+  },
+  {
+    "id": 8688,
+    "description": "Cereals, QUAKER, Instant Oatmeal, Cinnamon Swirl, high fiber",
+    "kcal": 366,
+    "protein": 8.79,
+    "carbohydrates": 75.67,
+    "sugar": 14.7
+  },
+  {
+    "id": 8410,
+    "description": "Cereals, QUAKER, Instant Oatmeal, Cinnamon-Spice, dry",
+    "kcal": 369,
+    "protein": 10.39,
+    "carbohydrates": 74.52,
+    "sugar": 21.14
+  },
+  {
+    "id": 8411,
+    "description": "Cereals, QUAKER, Instant Oatmeal, DINOSAUR EGGS, Brown Sugar, dry",
+    "kcal": 384,
+    "protein": 8.69,
+    "carbohydrates": 73.68,
+    "sugar": 28.91
+  },
+  {
+    "id": 8225,
+    "description": "Cereals, QUAKER, Instant Oatmeal, fruit and cream variety, dry",
+    "kcal": 379,
+    "protein": 8.3,
+    "carbohydrates": 75.42,
+    "sugar": 31.27
+  },
+  {
+    "id": 8641,
+    "description": "Cereals, QUAKER, Instant Oatmeal, fruit and cream, variety of flavors, reduced sugar",
+    "kcal": 376,
+    "protein": 10.16,
+    "carbohydrates": 71.57,
+    "sugar": 17.66
+  },
+  {
+    "id": 8130,
+    "description": "Cereals, QUAKER, Instant Oatmeal, maple and brown sugar, dry",
+    "kcal": 368,
+    "protein": 9.2,
+    "carbohydrates": 76.91,
+    "sugar": 30.02
+  },
+  {
+    "id": 8436,
+    "description": "Cereals, QUAKER, Instant Oatmeal, Raisin and Spice, dry",
+    "kcal": 360,
+    "protein": 9.11,
+    "carbohydrates": 75.68,
+    "sugar": 35.65
+  },
+  {
+    "id": 8228,
+    "description": "Cereals, QUAKER, Instant Oatmeal, raisins, dates and walnuts, dry",
+    "kcal": 371,
+    "protein": 8.82,
+    "carbohydrates": 72.41,
+    "sugar": 30.85
+  },
+  {
+    "id": 8694,
+    "description": "Cereals, QUAKER, Instant Oatmeal, weight control, cinnamon",
+    "kcal": 361,
+    "protein": 16.5,
+    "carbohydrates": 64.21,
+    "sugar": 1.27
+  },
+  {
+    "id": 8231,
+    "description": "Cereals, QUAKER, Oat Bran, QUAKER/MOTHER'S Oat Bran, dry",
+    "kcal": 364,
+    "protein": 17.03,
+    "carbohydrates": 62.94,
+    "sugar": 1.43
+  },
+  {
+    "id": 8690,
+    "description": "Cereals, QUAKER, oatmeal, REAL MEDLEYS, apple walnut, dry",
+    "kcal": 390,
+    "protein": 8.18,
+    "carbohydrates": 70.53,
+    "sugar": 29.36
+  },
+  {
+    "id": 8689,
+    "description": "Cereals, QUAKER, oatmeal, REAL MEDLEYS, blueberry hazelnut, dry",
+    "kcal": 386,
+    "protein": 9.81,
+    "carbohydrates": 69.47,
+    "sugar": 18.71
+  },
+  {
+    "id": 8693,
+    "description": "Cereals, QUAKER, oatmeal, REAL MEDLEYS, cherry pistachio, dry",
+    "kcal": 394,
+    "protein": 12.02,
+    "carbohydrates": 66.73,
+    "sugar": 26.34
+  },
+  {
+    "id": 8692,
+    "description": "Cereals, QUAKER, oatmeal, REAL MEDLEYS, peach almond, dry",
+    "kcal": 387,
+    "protein": 10.1,
+    "carbohydrates": 68.61,
+    "sugar": 24.85
+  },
+  {
+    "id": 8691,
+    "description": "Cereals, QUAKER, oatmeal, REAL MEDLEYS, summer berry, dry",
+    "kcal": 353,
+    "protein": 11.31,
+    "carbohydrates": 72.58,
+    "sugar": 20.43
+  },
+  {
+    "id": 8200,
+    "description": "Cereals, QUAKER, QUAKER MultiGrain Oatmeal, dry",
+    "kcal": 334,
+    "protein": 12.64,
+    "carbohydrates": 72.62,
+    "sugar": 2.46
+  },
+  {
+    "id": 8451,
+    "description": "Cereals, QUAKER, Quick Oats with Iron, Dry",
+    "kcal": 371,
+    "protein": 13.7,
+    "carbohydrates": 68.18,
+    "sugar": 1.42
+  },
+  {
+    "id": 8402,
+    "description": "Cereals, QUAKER, Quick Oats, Dry",
+    "kcal": 371,
+    "protein": 13.7,
+    "carbohydrates": 68.18,
+    "sugar": 1.42
+  },
+  {
+    "id": 8687,
+    "description": "Cereals, QUAKER, Weight Control Instant Oatmeal, banana bread",
+    "kcal": 361,
+    "protein": 16.5,
+    "carbohydrates": 64.42,
+    "sugar": 1.29
+  },
+  {
+    "id": 8686,
+    "description": "Cereals, QUAKER, Weight Control Instant Oatmeal, maple and brown sugar",
+    "kcal": 361,
+    "protein": 16.37,
+    "carbohydrates": 64.25,
+    "sugar": 1.25
+  },
+  {
+    "id": 8452,
+    "description": "Cereals, QUAKER, Whole Wheat Natural Cereal, dry",
+    "kcal": 333,
+    "protein": 11.8,
+    "carbohydrates": 74.8,
+    "sugar": 2
+  },
+  {
+    "id": 8673,
+    "description": "Cereals, ready-to-eat, MALT-O-MEAL, Blueberry Mini SPOONERS",
+    "kcal": 350,
+    "protein": 8.81,
+    "carbohydrates": 79.4,
+    "sugar": 18.44
+  },
+  {
+    "id": 8182,
+    "description": "Cereals, WHEATENA, cooked with water, with salt",
+    "kcal": 59,
+    "protein": 2.03,
+    "carbohydrates": 11.74,
+    "sugar": 0.25
+  },
+  {
+    "id": 8142,
+    "description": "Cereals, WHEATENA, dry",
+    "kcal": 357,
+    "protein": 13.1,
+    "carbohydrates": 75.6,
+    "sugar": 1.6
+  },
+  {
+    "id": 8183,
+    "description": "Cereals, whole wheat hot natural cereal, cooked with water, with salt",
+    "kcal": 62,
+    "protein": 2,
+    "carbohydrates": 13.7,
+    "sugar": 0.08
+  },
+  {
+    "id": 8145,
+    "description": "Cereals, whole wheat hot natural cereal, cooked with water, without salt",
+    "kcal": 62,
+    "protein": 2,
+    "carbohydrates": 13.7,
+    "sugar": 0.08
+  },
+  {
+    "id": 8144,
+    "description": "Cereals, whole wheat hot natural cereal, dry",
+    "kcal": 342,
+    "protein": 11.2,
+    "carbohydrates": 75.2,
+    "sugar": 0.42
+  },
+  {
+    "id": 43483,
+    "description": "Millet, puffed",
+    "kcal": 354,
+    "protein": 13,
+    "carbohydrates": 80,
+    "sugar": 0.55
+  }
+]

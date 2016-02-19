@@ -12,7 +12,24 @@
 angular.module('nutriAppApp')
 	.controller('MainCtrl', function($scope, $http) {
 
-		$scope.data = [];
+		$scope.ingredientLabels = {
+			kcal: {
+				label: "Calorie"
+			},
+
+			protein: {
+				label: "Protein"
+			},
+
+			carbohydrates: {
+				label: "Carbohydrates"
+			},
+
+			sugar: {
+				label: "Sugar"
+			}
+		};
+
 
 		$http({
 			method: 'GET',
@@ -31,7 +48,7 @@ angular.module('nutriAppApp')
 			top: 40,
 			bottom: 40,
 			left: 40,
-			right: 40		
+			right: 40
 		}
 
 
@@ -41,7 +58,7 @@ angular.module('nutriAppApp')
 			height: svgHeight
 		});
 
-		
+
 
 		function drawGraph(dataset) {
 

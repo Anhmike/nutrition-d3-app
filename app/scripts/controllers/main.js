@@ -50,6 +50,7 @@ angular.module('nutriAppApp')
 		}).then(function successCallback(response) {
 			$scope.dataset = response.data;
 			$scope.drawGraph();
+			$scope.setSliders();
 		}, function errorCallback(response) {
 			console.error(response)
 		});
@@ -75,7 +76,7 @@ angular.module('nutriAppApp')
 				width: svgWidth,
 				height: svgHeight
 			});
-			
+
 
 			var xScale = d3.scale.linear() //protein
 				.domain([0, d3.max($scope.dataset, function(d) {
@@ -91,7 +92,6 @@ angular.module('nutriAppApp')
 
 			var xAxis = d3.svg.axis().scale(xScale).orient("bottom");
 			var yAxis = d3.svg.axis().scale(yScale).orient("left");
-
 
 
 
@@ -149,7 +149,31 @@ angular.module('nutriAppApp')
 				d3.select("#circleWithId" + d.id).remove();
 			});
 
-			
+
+
+		}
+
+		$scope.setSliders = function() {
+
+			$scope.slidersData = $scope.ingredientsToShow.availableOptions;
+
+			angular.forEach($scope.slidersData, function(value, key) {
+
+				var max = $scope.dataset.reduce(function(m, k){ return k[value.key] > m ? k[value.key] : m }, -Infinity);
+
+				value.options = {
+					floor: 0,
+					ceil: Math.floor(max+5)
+				};	
+
+				value.min = 0;
+				value.max = value.options.ceil;			
+
+			});
+
+
+
+			console.log($scope.slidersData);
 
 		}
 

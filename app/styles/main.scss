@@ -65,6 +65,11 @@ body {
 }
 .customizer{
   padding: 40px 0;
+  rzslider{
+    .rz-pointer{
+      outline: 0 none;
+    }
+  }
 
 }
 

@@ -8,7 +8,7 @@
       <div class="form-group">
         <label for="x-axis" class="col-xs-4 control-label">X&nbsp;axis:</label>
         <div class="col-xs-8">
-        <select name="x-axis" id="x-axis-label"
+          <select name="x-axis" id="x-axis-label"
           ng-options="option.label for option in ingredientsToShow.availableOptions track by option.id"
           ng-model="ingredientsToShow.selectedX" ng-change="drawGraph()">
         </select>
@@ -18,12 +18,20 @@
       <label for="y-axis" class="col-xs-4 control-label">Y&nbsp;axis:</label>
       <div class="col-xs-8">
         <select name="y-axis" id="y-axis-label"
-          ng-options="option.label for option in ingredientsToShow.availableOptions track by option.id"
-          ng-model="ingredientsToShow.selectedY" ng-change="drawGraph()">
-        </select>
-      </div>
+        ng-options="option.label for option in ingredientsToShow.availableOptions track by option.id"
+        ng-model="ingredientsToShow.selectedY" ng-change="drawGraph()">
+      </select>
     </div>
-  </form>
+  </div>
+</form>
 </div>
-<div class="col-xs-6"></div>
+<div class="col-xs-6">
+  <div class="sliderData" ng-repeat="sliderData in slidersData">
+    <h4>{{sliderData.label}}</h4>
+    <rzslider
+    rz-slider-model="sliderData.min"
+    rz-slider-high="sliderData.max"
+    rz-slider-options="sliderData.options"></rzslider>
+  </div>
+</div>
 </div>

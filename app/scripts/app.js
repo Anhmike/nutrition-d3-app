@@ -11,7 +11,8 @@
 angular
   .module('nutriAppApp', [
     'ngResource',
-    'ngRoute'
+    'ngRoute',
+    'rzModule'
   ])
   .config(function ($routeProvider) {
     $routeProvider

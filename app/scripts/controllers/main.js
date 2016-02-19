@@ -119,7 +119,8 @@ angular.module('nutriAppApp')
 				cy: function(d) {
 					return yScale(d[$scope.ingredientsToShow.selectedY.key]);
 				},
-				r: radius
+				r: radius,
+				fill: "#77C653"
 
 			}).on("mouseover", function(d, i) {
 				d3.select(this).attr({
@@ -147,7 +148,8 @@ angular.module('nutriAppApp')
 			}).on("mouseout", function(d, i) {
 				d3.select(this).attr({
 					fill: "black",
-					r: radius
+					r: radius,
+					fill: "#77C653"
 				});
 
 				d3.select("#circleWithId" + d.id).remove();

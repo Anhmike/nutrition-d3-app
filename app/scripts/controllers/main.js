@@ -179,9 +179,9 @@ angular.module('nutriAppApp')
 			.range([margin.left, svgWidth - margin.right]);
 
 		var yScale = d3.scale.linear() //sugar
-			.domain([0, d3.max(dataset, function(d) {
+			.domain([d3.max(dataset, function(d) {
 				return d.sugar;
-			})])
+			}),0])
 			.range([margin.top, svgHeight - margin.bottom]);
 
 		var xAxis = d3.svg.axis().scale(xScale).orient("bottom");

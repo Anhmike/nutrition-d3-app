@@ -174,27 +174,27 @@ angular.module('nutriAppApp')
 		var radius = 4;
 		var xScale = d3.scale.linear() //protein
 			.domain([0, d3.max(dataset, function(d) {
-				return d.protein+5;
+				return d.protein + 5;
 			})])
 			.range([margin.left, svgWidth - margin.right]);
 
 		var yScale = d3.scale.linear() //sugar
 			.domain([d3.max(dataset, function(d) {
-				return d.sugar+5;
-			}),0])
+				return d.sugar + 5;
+			}), 0])
 			.range([margin.top, svgHeight - margin.bottom]);
 
 		var xAxis = d3.svg.axis().scale(xScale).orient("bottom");
 		var yAxis = d3.svg.axis().scale(yScale).orient("left");
 
 		svg.append("g").attr({
-			"class":"axis",
-			transform: "translate("+[0,svgHeight - margin.bottom]+")"
+			"class": "axis",
+			transform: "translate(" + [0, svgHeight - margin.bottom] + ")"
 		}).call(xAxis);
 
 		svg.append("g").attr({
-			"class":"axis",
-			transform: "translate("+[margin.left, 0]+")"
+			"class": "axis",
+			transform: "translate(" + [margin.left, 0] + ")"
 		}).call(yAxis);
 
 
@@ -207,6 +207,36 @@ angular.module('nutriAppApp')
 			},
 			r: radius
 
+		}).on("mouseover", function(d, i) {
+			d3.select(this).attr({
+				fill: "#705BC8",
+				r: radius * 1.5
+			})
+
+			svg.append("text")
+				.attr({
+					id: "circleWithId" + d.id,
+					x: function() {
+						return xScale(d.protein) - 10;
+					},
+					y: function() {
+						return yScale(d.sugar) - 10;
+					}
+				})
+				.text(function() {
+					return JSON.stringify(d);
+				})
+				// .text(function() {
+				// 	return [d.protein, d.sugar];
+				// })
+
+		}).on("mouseout", function(d, i) {
+			d3.select(this).attr({
+				fill: "black",
+				r: radius
+			});
+
+			d3.select("#circleWithId" + d.id).remove();
 		});
 
 

@@ -174,7 +174,7 @@ module.exports = function (grunt) {
     postcss: {
       options: {
         processors: [
-          require('autoprefixer-core')({browsers: ['last 1 version']})
+          require('autoprefixer')({browsers: ['last 1 version']})
         ]
       },
       server: {
@@ -469,7 +469,6 @@ module.exports = function (grunt) {
       'clean:server',
       'wiredep',
       'concurrent:server',
-      'postcss:server',
       'connect:livereload',
       'watch'
     ]);
@@ -484,7 +483,6 @@ module.exports = function (grunt) {
     'clean:server',
     'wiredep',
     'concurrent:test',
-    'postcss',
     'connect:test',
     'karma'
   ]);
@@ -494,7 +492,6 @@ module.exports = function (grunt) {
     'wiredep',
     'useminPrepare',
     'concurrent:dist',
-    'postcss',
     'ngtemplates',
     'concat',
     'ngAnnotate',

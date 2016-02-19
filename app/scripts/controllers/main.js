@@ -51,7 +51,7 @@ angular.module('nutriAppApp')
 			$scope.dataset = response.data;
 			$scope.setSliders();
 			$scope.drawGraph();
-			
+
 		}, function errorCallback(response) {
 			console.error(response)
 		});
@@ -83,7 +83,7 @@ angular.module('nutriAppApp')
 
 			var yDomainMin = $scope.slidersData[$scope.ingredientsToShow.selectedY.key].min;
 			var yDomainMax = $scope.slidersData[$scope.ingredientsToShow.selectedY.key].max;
-			
+
 			//console.log($scope.slidersData[$scope.ingredientsToShow.selectedY.key]);
 
 			var xScale = d3.scale.linear() //protein
@@ -100,6 +100,8 @@ angular.module('nutriAppApp')
 
 
 			var visualization = svg.selectAll("cirlce").data($scope.dataset);
+
+      var tooltip;
 
 			svg.append("g").attr({
 				"class": "axis",
@@ -138,9 +140,19 @@ angular.module('nutriAppApp')
 							return yScale(d[$scope.ingredientsToShow.selectedY.key]) - 10;
 						}
 					})
-					.text(function() {
-						return d.description;
-					})
+          tooltip = d3.select("body").append("div")
+            .attr("class", "tooltip")
+            .style("opacity",0);
+          tooltip.transition()
+            .duration(200)
+            .style("opacity", .9)
+            .style("background", "lightsteelblue");
+          tooltip.html(d.description + "<br/>" + d.carbohydrates
+              + "g of Carbohydrates <br/>" + d.protein + "g of Protein "
+              + "<br/>" + d.sugar + "g of Sugar"
+              + "<br/>" + d.kcal + " calories")
+            .style("left", (d3.event.pageX + 5) + "px")
+            .style("top", (d3.event.pageY - 28) + "px");
 					// .text(function() {
 					// 	return [d[$scope.ingredientsToShow.selectedX.key], d[$scope.ingredientsToShow.selectedY.key]];
 					// })
@@ -151,8 +163,10 @@ angular.module('nutriAppApp')
 					r: radius,
 					fill: "#77C653"
 				});
-
-				d3.select("#circleWithId" + d.id).remove();
+        tooltip.transition()
+          .duration(500)
+          .style("opacity", 0).remove();
+				d3.select("#circleWithId" + d.id);
 			});
 
 
@@ -174,10 +188,10 @@ angular.module('nutriAppApp')
 					floor: 0,
 					ceil: Math.floor(max),
 					onChange: $scope.drawGraph
-				};	
+				};
 
 				$scope.slidersData[value.key].min = 0;
-				$scope.slidersData[value.key].max = $scope.slidersData[value.key].options.ceil;			
+				$scope.slidersData[value.key].max = $scope.slidersData[value.key].options.ceil;
 
 			});
 

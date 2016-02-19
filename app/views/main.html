@@ -26,12 +26,12 @@
 </form>
 </div>
 <div class="col-xs-6">
-  <div ng-class="sliderFor{{sliderData.label}}" ng-repeat="sliderData in slidersData">
-    <h4>{{sliderData.label}}</h4>
+  <div ng-class="{'active': key == ingredientsToShow.selectedX.key || key == ingredientsToShow.selectedY.key}" ng-repeat="(key, value) in slidersData">
+    <h4>{{value.label}}</h4>
     <rzslider
-    rz-slider-model="sliderData.min"
-    rz-slider-high="sliderData.max"
-    rz-slider-options="sliderData.options"></rzslider>
+    rz-slider-model="value.min"
+    rz-slider-high="value.max"
+    rz-slider-options="value.options"></rzslider>
   </div>
 </div>
 </div>

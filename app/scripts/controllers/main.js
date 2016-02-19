@@ -170,7 +170,7 @@ angular.module('nutriAppApp')
 				$scope.slidersData[value.key].label = value.label;
 				$scope.slidersData[value.key].options = {
 					floor: 0,
-					ceil: Math.floor(max+5),
+					ceil: Math.floor(max),
 					onChange: $scope.drawGraph
 				};	
 

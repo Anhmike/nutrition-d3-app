@@ -49,8 +49,9 @@ angular.module('nutriAppApp')
 			url: 'foodData.json'
 		}).then(function successCallback(response) {
 			$scope.dataset = response.data;
-			$scope.drawGraph();
 			$scope.setSliders();
+			$scope.drawGraph();
+			
 		}, function errorCallback(response) {
 			console.error(response)
 		});
@@ -77,17 +78,20 @@ angular.module('nutriAppApp')
 				height: svgHeight
 			});
 
+			var xDomainMin = $scope.slidersData[$scope.ingredientsToShow.selectedX.key].min;
+			var xDomainMax = $scope.slidersData[$scope.ingredientsToShow.selectedX.key].max;
+
+			var yDomainMin = $scope.slidersData[$scope.ingredientsToShow.selectedY.key].min;
+			var yDomainMax = $scope.slidersData[$scope.ingredientsToShow.selectedY.key].max;
+			
+			//console.log($scope.slidersData[$scope.ingredientsToShow.selectedY.key]);
 
 			var xScale = d3.scale.linear() //protein
-				.domain([0, d3.max($scope.dataset, function(d) {
-					return d[$scope.ingredientsToShow.selectedX.key] + 5;
-				})])
+				.domain([xDomainMin,xDomainMax])
 				.range([margin.left, svgWidth - margin.right]);
 
 			var yScale = d3.scale.linear() //sugar
-				.domain([d3.max($scope.dataset, function(d) {
-					return d[$scope.ingredientsToShow.selectedY.key] + 5;
-				}), 0])
+				.domain([yDomainMax,yDomainMin])
 				.range([margin.top, svgHeight - margin.bottom]);
 
 			var xAxis = d3.svg.axis().scale(xScale).orient("bottom");
@@ -155,25 +159,25 @@ angular.module('nutriAppApp')
 
 		$scope.setSliders = function() {
 
-			$scope.slidersData = $scope.ingredientsToShow.availableOptions;
+			$scope.slidersData = {};
 
-			angular.forEach($scope.slidersData, function(value, key) {
+			angular.forEach($scope.ingredientsToShow.availableOptions, function(value, key) {
+
+				$scope.slidersData[value.key] = {};
 
 				var max = $scope.dataset.reduce(function(m, k){ return k[value.key] > m ? k[value.key] : m }, -Infinity);
 
-				value.options = {
+				$scope.slidersData[value.key].label = value.label;
+				$scope.slidersData[value.key].options = {
 					floor: 0,
-					ceil: Math.floor(max+5)
+					ceil: Math.floor(max+5),
+					onChange: $scope.drawGraph
 				};	
 
-				value.min = 0;
-				value.max = value.options.ceil;			
+				$scope.slidersData[value.key].min = 0;
+				$scope.slidersData[value.key].max = $scope.slidersData[value.key].options.ceil;			
 
 			});
-
-
-
-			console.log($scope.slidersData);
 
 		}
 

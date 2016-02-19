@@ -26,7 +26,7 @@
 </form>
 </div>
 <div class="col-xs-6">
-  <div class="sliderData" ng-repeat="sliderData in slidersData">
+  <div ng-class="sliderFor{{sliderData.label}}" ng-repeat="sliderData in slidersData">
     <h4>{{sliderData.label}}</h4>
     <rzslider
     rz-slider-model="sliderData.min"

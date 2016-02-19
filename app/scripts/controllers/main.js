@@ -174,13 +174,13 @@ angular.module('nutriAppApp')
 		var radius = 4;
 		var xScale = d3.scale.linear() //protein
 			.domain([0, d3.max(dataset, function(d) {
-				return d.protein;
+				return d.protein+5;
 			})])
 			.range([margin.left, svgWidth - margin.right]);
 
 		var yScale = d3.scale.linear() //sugar
 			.domain([d3.max(dataset, function(d) {
-				return d.sugar;
+				return d.sugar+5;
 			}),0])
 			.range([margin.top, svgHeight - margin.bottom]);
 

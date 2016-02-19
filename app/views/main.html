@@ -10,7 +10,7 @@
         <div class="col-xs-8">
         <select name="x-axis" id="x-axis-label"
           ng-options="option.label for option in ingredientsToShow.availableOptions track by option.id"
-          ng-model="ingredientsToShow.selectedX">
+          ng-model="ingredientsToShow.selectedX" ng-change="drawGraph()">
         </select>
       </div>
     </div>
@@ -19,7 +19,7 @@
       <div class="col-xs-8">
         <select name="y-axis" id="y-axis-label"
           ng-options="option.label for option in ingredientsToShow.availableOptions track by option.id"
-          ng-model="ingredientsToShow.selectedY">
+          ng-model="ingredientsToShow.selectedY" ng-change="drawGraph()">
         </select>
       </div>
     </div>

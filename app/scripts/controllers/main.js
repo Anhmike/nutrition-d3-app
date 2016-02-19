@@ -43,30 +43,13 @@ angular.module('nutriAppApp')
 			}
 		};
 
-		// $scope.ingredientLabels = {
-		// 	kcal: {
-		// 		label: "Calorie"
-		// 	},
-
-		// 	protein: {
-		// 		label: "Protein"
-		// 	},
-
-		// 	carbohydrates: {
-		// 		label: "Carbohydrates"
-		// 	},
-
-		// 	sugar: {
-		// 		label: "Sugar"
-		// 	}
-		// };
-
 
 		$http({
 			method: 'GET',
 			url: 'foodData.json'
 		}).then(function successCallback(response) {
-			drawGraph(response.data);
+			$scope.dataset = response.data;
+			$scope.drawGraph();
 		}, function errorCallback(response) {
 			console.error(response)
 		});
@@ -84,29 +67,35 @@ angular.module('nutriAppApp')
 
 
 
-		var svg = d3.select(".svg-container").append("svg").attr({
-			width: svgWidth,
-			height: svgHeight
-		});
+		$scope.drawGraph = function() {
 
+			$('.svg-container svg').remove();
 
-
-		function drawGraph(dataset) {
+			var svg = d3.select(".svg-container").append("svg").attr({
+				width: svgWidth,
+				height: svgHeight
+			});
+			
 
 			var xScale = d3.scale.linear() //protein
-				.domain([0, d3.max(dataset, function(d) {
-					return d.protein + 5;
+				.domain([0, d3.max($scope.dataset, function(d) {
+					return d[$scope.ingredientsToShow.selectedX.key] + 5;
 				})])
 				.range([margin.left, svgWidth - margin.right]);
 
 			var yScale = d3.scale.linear() //sugar
-				.domain([d3.max(dataset, function(d) {
-					return d.sugar + 5;
+				.domain([d3.max($scope.dataset, function(d) {
+					return d[$scope.ingredientsToShow.selectedY.key] + 5;
 				}), 0])
 				.range([margin.top, svgHeight - margin.bottom]);
 
 			var xAxis = d3.svg.axis().scale(xScale).orient("bottom");
 			var yAxis = d3.svg.axis().scale(yScale).orient("left");
+
+
+
+
+			var visualization = svg.selectAll("cirlce").data($scope.dataset);
 
 			svg.append("g").attr({
 				"class": "axis",
@@ -118,13 +107,13 @@ angular.module('nutriAppApp')
 				transform: "translate(" + [margin.left, 0] + ")"
 			}).call(yAxis);
 
-
-			svg.selectAll("cirlce").data(dataset).enter().append("circle").attr({
+			visualization.exit().remove();
+			visualization.enter().append("circle").attr({
 				cx: function(d) {
-					return xScale(d.protein);
+					return xScale(d[$scope.ingredientsToShow.selectedX.key]);
 				},
 				cy: function(d) {
-					return yScale(d.sugar);
+					return yScale(d[$scope.ingredientsToShow.selectedY.key]);
 				},
 				r: radius
 
@@ -138,17 +127,17 @@ angular.module('nutriAppApp')
 					.attr({
 						id: "circleWithId" + d.id,
 						x: function() {
-							return xScale(d.protein) - 10;
+							return xScale(d[$scope.ingredientsToShow.selectedX.key]) - 10;
 						},
 						y: function() {
-							return yScale(d.sugar) - 10;
+							return yScale(d[$scope.ingredientsToShow.selectedY.key]) - 10;
 						}
 					})
 					.text(function() {
 						return d.description;
 					})
 					// .text(function() {
-					// 	return [d.protein, d.sugar];
+					// 	return [d[$scope.ingredientsToShow.selectedX.key], d[$scope.ingredientsToShow.selectedY.key]];
 					// })
 
 			}).on("mouseout", function(d, i) {
@@ -159,6 +148,9 @@ angular.module('nutriAppApp')
 
 				d3.select("#circleWithId" + d.id).remove();
 			});
+
+			
+
 		}
 
 

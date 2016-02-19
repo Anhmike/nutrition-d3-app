@@ -12,23 +12,54 @@
 angular.module('nutriAppApp')
 	.controller('MainCtrl', function($scope, $http) {
 
-		$scope.ingredientLabels = {
-			kcal: {
-				label: "Calorie"
-			},
 
-			protein: {
-				label: "Protein"
+		$scope.ingredientsToShow = {
+			availableOptions: [{
+				id: '1',
+				key: 'kcal',
+				label: 'Calories'
+			}, {
+				id: '2',
+				key: 'protein',
+				label: 'Protein'
+			}, {
+				id: '3',
+				key: 'carbohydrates',
+				label: 'Carbohydrates'
+			}, {
+				id: '4',
+				key: 'sugar',
+				label: 'Sugar'
+			}],
+			selectedX: {
+				id: '2',
+				key: 'protein',
+				label: 'Protein'
 			},
-
-			carbohydrates: {
-				label: "Carbohydrates"
-			},
-
-			sugar: {
-				label: "Sugar"
+			selectedY: {
+				id: '4',
+				key: 'sugar',
+				label: 'Sugar'
 			}
 		};
+
+		// $scope.ingredientLabels = {
+		// 	kcal: {
+		// 		label: "Calorie"
+		// 	},
+
+		// 	protein: {
+		// 		label: "Protein"
+		// 	},
+
+		// 	carbohydrates: {
+		// 		label: "Carbohydrates"
+		// 	},
+
+		// 	sugar: {
+		// 		label: "Sugar"
+		// 	}
+		// };
 
 
 		$http({

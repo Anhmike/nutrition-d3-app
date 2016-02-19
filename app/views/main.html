@@ -1,2 +1,29 @@
-<div id="x-axis" class="axis-label">x: {{ingredientLabels.protein.label}}</div>
-<div id="y-axis" class="axis-label">y: {{ingredientLabels.sugar.label}}</div>
+<div class="row svg-container">
+  <div id="x-axis" class="axis-label">x: {{ingredientsToShow.selectedX.label}}</div>
+  <div id="y-axis" class="axis-label">y: {{ingredientsToShow.selectedY.label}}</div>  
+</div>
+<div class="row customizer">
+  <div class="col-xs-6 custom-axis">
+    <form class="form-horizontal">
+      <div class="form-group">
+        <label for="x-axis" class="col-xs-4 control-label">X&nbsp;axis:</label>
+        <div class="col-xs-8">
+        <select name="x-axis" id="x-axis-label"
+          ng-options="option.label for option in ingredientsToShow.availableOptions track by option.id"
+          ng-model="ingredientsToShow.selectedX">
+        </select>
+      </div>
+    </div>
+    <div class="form-group">
+      <label for="y-axis" class="col-xs-4 control-label">Y&nbsp;axis:</label>
+      <div class="col-xs-8">
+        <select name="y-axis" id="y-axis-label"
+          ng-options="option.label for option in ingredientsToShow.availableOptions track by option.id"
+          ng-model="ingredientsToShow.selectedY">
+        </select>
+      </div>
+    </div>
+  </form>
+</div>
+<div class="col-xs-6"></div>
+</div>

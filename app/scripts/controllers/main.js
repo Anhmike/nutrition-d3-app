@@ -184,6 +184,19 @@ angular.module('nutriAppApp')
 			})])
 			.range([margin.top, svgHeight - margin.bottom]);
 
+		var xAxis = d3.svg.axis().scale(xScale).orient("bottom");
+		var yAxis = d3.svg.axis().scale(yScale).orient("left");
+
+		svg.append("g").attr({
+			"class":"axis",
+			transform: "translate("+[0,svgHeight - margin.bottom]+")"
+		}).call(xAxis);
+
+		svg.append("g").attr({
+			"class":"axis",
+			transform: "translate("+[margin.left, 0]+")"
+		}).call(yAxis);
+
 
 		svg.selectAll("cirlce").data(dataset).enter().append("circle").attr({
 			cx: function(d) {

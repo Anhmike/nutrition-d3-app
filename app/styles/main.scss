@@ -38,6 +38,14 @@ body {
 
 .svg-container{
   background: #eee;
+
+  .axis{
+    path, line{
+      fill: none;
+      stroke: #444;
+      shape-rendering: crispEdges;
+    }
+  }
 }
 
 /* Custom page footer */
